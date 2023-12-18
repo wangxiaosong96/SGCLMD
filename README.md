@@ -2,7 +2,7 @@
 ### SGCLMD: Signed Graph-based Contrastive Learning Model for Predicting Somatic Mutation-Drug Association 
 
 
-![image](https://github.com/wangxiaosong96/PDDGCN/blob/main/flow%20chart.png)
+![image](https://github.com/wangxiaosong96/SGCLMD/blob/main/SGCLMD-main/Images/graph.png)
 
 ## Tutorial
 1. Split data for cross validation and indenpendent test experiment via the script split_data.py: python split_data.py fold_number DATANAME seed_indent seed_cross
