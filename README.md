@@ -23,9 +23,7 @@ scikit-learn >= 0.24.0
 torch_geometric >= 2.1.0.post1
 
 ## Run Example
-The number of train epochs for review is 300, as it is a small datsets. But for other three datsets, the number of training epochs is 2000.
-
-python train.py --dataset=review-1 --epochs=300
+python train.py --dataset=drug_mutation --epochs=300
 
 ## Contact
 
