@@ -17,9 +17,13 @@ To get the experiment results by running the script command_optimal.py
 In order to run this code, you need to install following dependencies:
 
 pip install torch numpy sklearn torch_geometric
+
 python >= 3.9
+
 torch >= 1.7.0
+
 scikit-learn >= 0.24.0
+
 torch_geometric >= 2.1.0.post1
 
 ## Run Example
