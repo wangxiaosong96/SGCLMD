@@ -14,19 +14,18 @@
 To get the experiment results by running the script command_optimal.py
 
 ## Requirements
-numpy 1.18.0
+In order to run this code, you need to install following dependencies:
 
-pandas 1.1.0
+pip install torch numpy sklearn torch_geometric
+python >= 3.9
+torch >= 1.7.0
+scikit-learn >= 0.24.0
+torch_geometric >= 2.1.0.post1
 
-scipy 1.4.1
+## Run Example
+The number of train epochs for review is 300, as it is a small datsets. But for other three datsets, the number of training epochs is 2000.
 
-scikit-learn 0.22
-
-tensorflow 1.15.0
-
-pytorch 1.6.0
-
-python 3.7.1
+python train.py --dataset=review-1 --epochs=300
 
 ## Contact
 
