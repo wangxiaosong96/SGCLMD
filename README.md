@@ -4,6 +4,10 @@
 
 ![image](https://github.com/wangxiaosong96/SGCLMD/blob/main/SGCLMD-main/Images/graph.png)
 
+## Datasets
+We constructed a somatic mutation-drug association dataset. we randomly select 10% of the links as test set, 5% for validation set, and the remaining 85% as training set for each of our datasets. You can download it in datasets foalder.
+
+
 ## Tutorial
 1. Split data for cross validation and indenpendent test experiment via the script split_data.py: python split_data.py fold_number DATANAME seed_indent seed_cross
 
