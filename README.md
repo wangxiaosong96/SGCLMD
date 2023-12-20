@@ -18,7 +18,9 @@ To get the experiment results by running the script command_optimal.py
 ## Requirements
 In order to run this code, you need to install following dependencies:
 
+```
 pip install torch numpy sklearn torch_geometric
+```
 
 python >= 3.9
 
@@ -29,8 +31,9 @@ scikit-learn >= 0.24.0
 torch_geometric >= 2.1.0.post1
 
 ## Run Example
+```
 python train.py --dataset=drug_mutation --epochs=300
-
+```
 ## Contact
 
 Please feel free to contact us if you need any help: xiaosongwang@ahau.edu.cn
