@@ -3,25 +3,13 @@
 ![image](https://github.com/wangxiaosong96/SGCLMD/blob/main/SGCLMD-main/Images/graph.png)
 
 ## Datasets
-We constructed a somatic mutation-drug association dataset. we randomly select 10% of the links as test set, 5% for validation set, and the remaining 85% as training set for each of our datasets. You can download it in datasets foalder.
-
-
-## Tutorial
-1. Split data for cross validation and indenpendent test experiment via the script split_data.py: python split_data.py fold_number DATANAME seed_indent seed_cross
-
-2. To perform cross validation for finding the optimal hyperparameters by running the script command_optimal.py (if you don't want to finetune the hyperparameters, just skip this step):
-
-3. python command_optimal.py --dataName DATANAME --exp_name mid_dim/num_layer/alp_beta --seed_cross seed_cross --seed_indent seed_indent
-
-To get the experiment results by running the script command_optimal.py
+`We constructed a somatic mutation-drug association dataset. we randomly select 10% of the links as test set, 5% for validation set, and the remaining 85% as training set for each of our datasets. You can download it in datasets foalder.`
 
 ## Requirements
 In order to run this code, you need to install following dependencies:
-
 ```
 pip install torch numpy sklearn torch_geometric
 ```
-
 python >= 3.9
 
 torch >= 1.7.0
