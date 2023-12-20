@@ -3,7 +3,7 @@
 ![image](https://github.com/wangxiaosong96/SGCLMD/blob/main/SGCLMD-main/Images/graph.png)
 
 ## Datasets
-`We constructed a somatic mutation-drug association dataset. we randomly select 10% of the links as test set, 5% for validation set, and the remaining 85% as training set for each of our datasets. You can download it in datasets foalder.`
+**We constructed a somatic mutation-drug association dataset. we randomly select 10% of the links as test set, 5% for validation set, and the remaining 85% as training set for each of our datasets. You can download it in datasets foalder.**
 
 ## Requirements
 In order to run this code, you need to install following dependencies:
