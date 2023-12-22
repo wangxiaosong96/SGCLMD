@@ -1,4 +1,4 @@
-# SGCLMD: Signed Graph-based Contrastive Learning Model for Predicting Somatic Mutation-Drug Association
+# SGCLMD: Signed Graph-based Contrastive Learning Model for Predicting Somatic Mutation-Drug Association 
 
 ![image](https://github.com/wangxiaosong96/SGCLMD/blob/main/SGCLMD-main/Images/graph.png)
 
