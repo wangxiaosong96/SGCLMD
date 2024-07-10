@@ -1,0 +1,1331 @@
+response_type,drug,Primary Tumor type,association,genes,mutation,mutation
+missense,Imatinib,lung adenocarcinoma,sensitive,ABL1,R332W,ABL1 R332W
+missense,DASATINIB,lung adenocarcinoma,sensitive,ABL1,R332W,ABL1 R332W
+missense,DASATINIB,lung adenocarcinoma,sensitive,ABL1,G321L,ABL1 G321L
+missense,Imatinib,lung adenocarcinoma,sensitive,ABL1,G321L,ABL1 G321L
+missense,Capivasertib,Her2-receptor negative breast cancer,sensitive,AKT1,E17K,AKT1 E17K
+missense,UPROSERTIB,melanoma (disease),sensitive,AKT1,E17K,AKT1 E17K
+missense,Capivasertib,endometrial cancer,sensitive,AKT1,E17K,AKT1 E17K
+missense,IPATASERTIB,Her2-receptor negative breast cancer,sensitive,AKT1,E17K,AKT1 E17K
+missense,Capivasertib,lung adenocarcinoma,sensitive,AKT1,E17K,AKT1 E17K
+missense,Capivasertib,cervical cancer,sensitive,AKT1,E17K,AKT1 E17K
+missense,Capivasertib,estrogen-receptor positive breast cancer,sensitive,AKT1,E17K,AKT1 E17K
+missense,Capivasertib,triple-negative breast carcinoma,sensitive,AKT1,E17K,AKT1 E17K
+missense,Capivasertib,cancer,sensitive,AKT1,E17K,AKT1 E17K
+missense,Capivasertib,cancer,sensitive,AKT1,E17K,AKT1 E17K
+missense,Capivasertib,meningothelial meningioma,sensitive,AKT1,E17K,AKT1 E17K
+missense,Capivasertib,breast cancer,sensitive,AKT1,E17K,AKT1 E17K
+missense,Capivasertib,breast cancer,sensitive,AKT1,E17K,AKT1 E17K
+missense,Capivasertib,parotid gland cancer,sensitive,AKT1,E17K,AKT1 E17K
+missense,Capivasertib,leiomyosarcoma of the corpus uteri,sensitive,AKT1,E17K,AKT1 E17K
+missense,UPROSERTIB,cancer,sensitive,AKT1,E17K,AKT1 E17K
+missense,Capivasertib,endometrium adenocarcinoma,sensitive,AKT1,E17K,AKT1 E17K
+missense,Capivasertib,granulosa cell tumor,sensitive,AKT1,E17K,AKT1 E17K
+missense,Capivasertib,ovarian endometrial cancer,sensitive,AKT1,E17K,AKT1 E17K
+missense,Capivasertib,breast papillary carcinoma,sensitive,AKT1,E17K,AKT1 E17K
+missense,Capivasertib,ovarian cancer,sensitive,AKT1,Q79K,AKT1 Q79K
+missense,CERITINIB,ganglioneuroblastoma (disease),sensitive,ALK,I1171T,ALK I1171T
+missense,BRIGATINIB,cancer,sensitive,ALK,G1128A,ALK G1128A
+missense,BRIGATINIB,cancer,sensitive,ALK,F1174L,ALK F1174L
+missense,CRIZOTINIB,neuroblastoma,resistant,ALK,F1174L,ALK F1174L
+missense,LORLATINIB,cancer,sensitive,ALK,F1174L,ALK F1174L
+missense,BRIGATINIB,cancer,sensitive,ALK,I1171N,ALK I1171N
+missense,CRIZOTINIB,neuroblastoma,sensitive,ALK,R1275Q,ALK R1275Q
+missense,Cyclophosphamide,neuroblastoma,sensitive,ALK,R1275Q,ALK R1275Q
+missense,Topotecan,neuroblastoma,sensitive,ALK,R1275Q,ALK R1275Q
+missense,BRIGATINIB,cancer,sensitive,ALK,R1275Q,ALK R1275Q
+missense,LORLATINIB,neuroblastoma,sensitive,ALK,R1275Q,ALK R1275Q
+missense,CERITINIB,neuroblastoma,sensitive,ALK,R1275Q,ALK R1275Q
+missense,LORLATINIB,cancer,sensitive,ALK,R1275Q,ALK R1275Q
+missense,ALECTINIB,cancer,sensitive,ALK,C1156Y,ALK C1156Y
+missense,CRIZOTINIB,neuroblastoma,resistant,ALK,F1245C,ALK F1245C
+missense,BRIGATINIB,cancer,sensitive,ALK,F1245C,ALK F1245C
+missense,LORLATINIB,neuroblastoma,sensitive,ALK,F1245C,ALK F1245C
+missense,LORLATINIB,cancer,sensitive,ALK,F1245C,ALK F1245C
+missense,BRIGATINIB,cancer,sensitive,ALK,Y1278S,ALK Y1278S
+missense,ALECTINIB,neuroblastoma,sensitive,ALK,D1091N,ALK D1091N
+missense,ALECTINIB,neuroblastoma,sensitive,ALK,D1091N,ALK D1091N
+missense,Doxorubicin,neuroblastoma,sensitive,ALK,D1091N,ALK D1091N
+missense,Doxorubicin,neuroblastoma,sensitive,ALK,D1091N,ALK D1091N
+missense,ENTRECTINIB,neuroblastoma,sensitive,ALK,F1245V,ALK F1245V
+missense,BRIGATINIB,neuroblastoma,sensitive,ALK,F1174V,ALK F1174V
+missense,BRIGATINIB,cancer,sensitive,ALK,G1269A,ALK G1269A
+missense,BRIGATINIB,cancer,sensitive,ALK,R1192P,ALK R1192P
+missense,OLAPARIB,colorectal cancer,sensitive,ARID1A,Q456*,ARID1A Q456*
+missense,RUCAPARIB,colorectal cancer,sensitive,ARID1A,Q456*,ARID1A Q456*
+missense,DASATINIB,colorectal cancer,sensitive,ARID1A,Q456*,ARID1A Q456*
+missense,BERZOSERTIB,colorectal cancer,sensitive,ARID1A,Q456*,ARID1A Q456*
+missense,VEMURAFENIB,cancer,resistant,BRAF,G464E,BRAF G464E
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600R,BRAF V600R
+missense,malathion,melanoma (disease),sensitive,BRAF,V600R,BRAF V600R
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600R,BRAF V600R
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600R,BRAF V600R
+missense,VEMURAFENIB,cancer,resistant,BRAF,K601T,BRAF K601T
+missense,DABRAFENIB,colorectal cancer,sensitive,BRAF,G596R,BRAF G596R
+missense,TRAMETINIB,colorectal cancer,sensitive,BRAF,G596R,BRAF G596R
+missense,TRAMETINIB,colorectal cancer,sensitive,BRAF,G596R,BRAF G596R
+missense,VEMURAFENIB,colorectal cancer,resistant,BRAF,G596R,BRAF G596R
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600D,BRAF V600D
+missense,malathion,melanoma (disease),sensitive,BRAF,V600D,BRAF V600D
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600D,BRAF V600D
+missense,DABRAFENIB,pilocytic astrocytoma,sensitive,BRAF,V600D,BRAF V600D
+missense,TRAMETINIB,pilocytic astrocytoma,sensitive,BRAF,V600D,BRAF V600D
+missense,VEMURAFENIB,cancer,resistant,BRAF,K601N,BRAF K601N
+missense,VEMURAFENIB,cancer,resistant,BRAF,G464R,BRAF G464R
+missense,Sorafenib,non-small cell lung carcinoma (disease),sensitive,BRAF,G469V,BRAF G469V
+missense,VEMURAFENIB,cancer,resistant,BRAF,G469V,BRAF G469V
+missense,ENCORAFENIB,melanoma (disease),sensitive,BRAF,L597S,BRAF L597S
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,L597S,BRAF L597S
+missense,COBIMETINIB,melanoma (disease),sensitive,BRAF,L597S,BRAF L597S
+missense,BINIMETINIB,melanoma (disease),sensitive,BRAF,L597S,BRAF L597S
+missense,ENCORAFENIB,melanoma (disease),sensitive,BRAF,L597S,BRAF L597S
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,L597S,BRAF L597S
+missense,malathion,melanoma (disease),sensitive,BRAF,L597S,BRAF L597S
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,L597S,BRAF L597S
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,L597S,BRAF L597S
+missense,TRAMETINIB,cancer,sensitive,BRAF,L597S,BRAF L597S
+missense,BINIMETINIB,melanoma (disease),sensitive,BRAF,L597S,BRAF L597S
+missense,ENCORAFENIB,melanoma (disease),sensitive,BRAF,L597S,BRAF L597S
+missense,VEMURAFENIB,cancer,sensitive,BRAF,L597S,BRAF L597S
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,L597S,BRAF L597S
+missense,REFAMETINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,PLX-4720,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,BINIMETINIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,ENCORAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,thyroid cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,thyroid cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,thyroid cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,thyroid cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,CEDIRANIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,SELUMETINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,Irinotecan,rectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,rectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,Sorbinil,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,GSK2126458,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,PIMASERTIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,Sorafenib,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,neuroendocrine neoplasm,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,neuroendocrine neoplasm,sensitive,BRAF,V600E,BRAF V600E
+missense,Sorafenib,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,DASATINIB,thyroid cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,REFAMETINIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,malignant glioma,sensitive,BRAF,V600E,BRAF V600E
+missense,ENCORAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,neuroendocrine neoplasm,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,neuroendocrine neoplasm,sensitive,BRAF,V600E,BRAF V600E
+missense,DASATINIB,thyroid cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,thyroid cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,Lapatinib,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,PANOBINOSTAT,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,Irinotecan,colon carcinoma,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,colon carcinoma,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,colon carcinoma,sensitive,BRAF,V600E,BRAF V600E
+missense,Ulixertinib,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,CI-1040,cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,PLX-4720,glioma susceptibility 1,resistant,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,non-small cell lung carcinoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,non-small cell lung carcinoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,PLX8394,cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,SELUMETINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,RO-5126766 free base,thyroid gland papillary carcinoma,sensitive,BRAF,V600E,BRAF V600E
+missense,malathion,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,PALBOCICLIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,Irinotecan,colon carcinoma,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,colon carcinoma,sensitive,BRAF,V600E,BRAF V600E
+missense,BI 2536,glioma susceptibility 1,sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,non-small cell lung carcinoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,non-small cell lung carcinoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,non-small cell lung carcinoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,non-small cell lung carcinoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,CI-1040,ovarian cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,RO-5126766 free base,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,Sorbinil,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,VORINOSTAT,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,Lifirafenib,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,Lifirafenib,thyroid cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,malathion,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,Agerafenib,colon carcinoma,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,hairy cell leukemia,sensitive,BRAF,V600E,BRAF V600E
+missense,ALPELISIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,DASATINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,melanoma (disease),resistant,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,melanoma (disease),resistant,BRAF,V600E,BRAF V600E
+missense,Imatinib,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,PIMASERTIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,COBIMETINIB,lymphatic system cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,PIMASERTIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,colon neuroendocrine neoplasm,sensitive,BRAF,V600E,BRAF V600E
+missense,AFATINIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,non-small cell lung carcinoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,non-small cell lung carcinoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,non-small cell lung carcinoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,PD-0325901,colon carcinoma,sensitive,BRAF,V600E,BRAF V600E
+missense,GEDATOLISIB,colon carcinoma,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,Erlotinib,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,COBIMETINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,larynx cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,thyroid cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,Ulixertinib,glioma susceptibility 1,sensitive,BRAF,V600E,BRAF V600E
+missense,Lapatinib,thyroid cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,thyroid cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,ENCORAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,GEFITINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,PLX-4720,colon carcinoma,sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,pleomorphic xanthoastrocytoma,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,pleomorphic xanthoastrocytoma,sensitive,BRAF,V600E,BRAF V600E
+missense,RAF-265,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,PLX-4720,cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,GEFITINIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,COBIMETINIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,PLX-4720,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,malathion,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,Erlotinib,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,Lifirafenib,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,Lifirafenib,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,non-small cell lung carcinoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,PD-0325901,glioma susceptibility 1,resistant,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,SELUMETINIB,malignant glioma,sensitive,BRAF,V600E,BRAF V600E
+missense,Sorafenib,colon carcinoma,sensitive,BRAF,V600E,BRAF V600E
+missense,Irinotecan,rectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,rectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,Ulixertinib,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,BI 2536,glioma susceptibility 1,sensitive,BRAF,V600E,BRAF V600E
+missense,PLX-4720,glioma susceptibility 1,sensitive,BRAF,V600E,BRAF V600E
+missense,Ulixertinib,lung cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,SELUMETINIB,thyroid cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,4-DEOXYLACTOSE,colorectal adenocarcinoma,sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,ENCORAFENIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,Ribociclib,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,ENCORAFENIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,SELUMETINIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,non-small cell lung carcinoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,Sorbinil,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,Doxorubicin,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,GANETESPIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,renal cell adenocarcinoma,sensitive,BRAF,V600E,BRAF V600E
+missense,FLUOROURACIL,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,SARACATINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,SELUMETINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,4-DEOXYLACTOSE,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,DASATINIB,thyroid cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,SELUMETINIB,thyroid cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,SELUMETINIB,malignant glioma,sensitive,BRAF,V600E,BRAF V600E
+missense,SELUMETINIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,GANETESPIB,cutaneous melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,PIMASERTIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,REGORAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,pleomorphic xanthoastrocytoma,sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,pilocytic astrocytoma,sensitive,BRAF,V600E,BRAF V600E
+missense,RAF-265,cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,colon carcinoma,sensitive,BRAF,V600E,BRAF V600E
+missense,DASATINIB,lung carcinoma,resistant,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,ovarian cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,glioma susceptibility 1,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,glioma susceptibility 1,sensitive,BRAF,V600E,BRAF V600E
+missense,PD-0325901,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,non-small cell lung carcinoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,non-small cell lung carcinoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,COBIMETINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,ALPELISIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,ENCORAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,ganglioglioma,sensitive,BRAF,V600E,BRAF V600E
+missense,DABRAFENIB,salivary gland carcinoma,sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,salivary gland carcinoma,sensitive,BRAF,V600E,BRAF V600E
+missense,TIVOZANIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,REGORAFENIB,colorectal cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,CEDIRANIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,Agerafenib,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,malathion,thyroid cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,VEMURAFENIB,cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,Lifirafenib,cancer,sensitive,BRAF,V600E,BRAF V600E
+missense,BINIMETINIB,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,RO4987655,melanoma (disease),sensitive,BRAF,V600E,BRAF V600E
+missense,TRAMETINIB,cancer,sensitive,BRAF,F247L,BRAF F247L
+missense,DABRAFENIB,cancer,sensitive,BRAF,F247L,BRAF F247L
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,K601E,BRAF K601E
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,K601E,BRAF K601E
+missense,TRAMETINIB,cancer,sensitive,BRAF,K601E,BRAF K601E
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600K,BRAF V600K
+missense,GSK2126458,melanoma (disease),sensitive,BRAF,V600K,BRAF V600K
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600K,BRAF V600K
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600K,BRAF V600K
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600K,BRAF V600K
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600K,BRAF V600K
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600K,BRAF V600K
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600K,BRAF V600K
+missense,COBIMETINIB,melanoma (disease),sensitive,BRAF,V600K,BRAF V600K
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600K,BRAF V600K
+missense,COBIMETINIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,COBIMETINIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,Navtemadlin,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,SELUMETINIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,VEMURAFENIB,cholangiocarcinoma,sensitive,BRAF,V600X,BRAF V600X
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,VEMURAFENIB,colorectal cancer,sensitive,BRAF,V600X,BRAF V600X
+missense,COBIMETINIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,Irinotecan,colorectal cancer,sensitive,BRAF,V600X,BRAF V600X
+missense,VEMURAFENIB,colorectal cancer,sensitive,BRAF,V600X,BRAF V600X
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,BUPARLISIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,BINIMETINIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,BUPARLISIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,SELUMETINIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,DABRAFENIB,colorectal cancer,sensitive,BRAF,V600X,BRAF V600X
+missense,TRAMETINIB,colorectal cancer,sensitive,BRAF,V600X,BRAF V600X
+missense,VEMURAFENIB,thyroid cancer,sensitive,BRAF,V600X,BRAF V600X
+missense,BUPARLISIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600X,BRAF V600X
+missense,VEMURAFENIB,melanoma (disease),resistant,BRAF,L505H,BRAF L505H
+missense,VEMURAFENIB,cancer,resistant,BRAF,G464V,BRAF G464V
+missense,VEMURAFENIB,cancer,resistant,BRAF,G464V,BRAF G464V
+missense,Irinotecan,colorectal cancer,sensitive,BRAF,G466V,BRAF G466V
+missense,TRAMETINIB,colorectal cancer,sensitive,BRAF,G466V,BRAF G466V
+missense,malathion,non-small cell lung carcinoma (disease),sensitive,BRAF,G466V,BRAF G466V
+missense,DASATINIB,non-small cell lung carcinoma (disease),sensitive,BRAF,G466V,BRAF G466V
+missense,TRAMETINIB,non-small cell lung carcinoma (disease),sensitive,BRAF,G466V,BRAF G466V
+missense,PLX8394,lung adenocarcinoma,sensitive,BRAF,G466V,BRAF G466V
+missense,DABRAFENIB,non-small cell lung carcinoma (disease),sensitive,BRAF,G466V,BRAF G466V
+missense,TRAMETINIB,non-small cell lung carcinoma (disease),sensitive,BRAF,G466V,BRAF G466V
+missense,VEMURAFENIB,non-small cell lung carcinoma (disease),resistant,BRAF,G466V,BRAF G466V
+missense,VEMURAFENIB,cancer,resistant,BRAF,L597Q,BRAF L597Q
+missense,VEMURAFENIB,cancer,resistant,BRAF,L597Q,BRAF L597Q
+missense,Ulixertinib,lung cancer,sensitive,BRAF,L597Q,BRAF L597Q
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,D594G,BRAF D594G
+missense,VEMURAFENIB,cancer,sensitive,BRAF,L597R,BRAF L597R
+missense,TRAMETINIB,cancer,sensitive,BRAF,L597R,BRAF L597R
+missense,VEMURAFENIB,cancer,resistant,BRAF,F595L,BRAF F595L
+missense,DABRAFENIB,breast cancer,resistant,BRAF,L514V,BRAF L514V
+missense,Ulixertinib,gallbladder cancer,sensitive,BRAF,L485W,BRAF L485W
+missense,malathion,melanoma (disease),sensitive,BRAF,G466E,BRAF G466E
+missense,DABRAFENIB,melanoma (disease),resistant,BRAF,G466E,BRAF G466E
+missense,VEMURAFENIB,melanoma (disease),resistant,BRAF,G466E,BRAF G466E
+missense,COBIMETINIB,melanoma (disease),sensitive,BRAF,V600E/K,BRAF V600E/K
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600E/K,BRAF V600E/K
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600E/K,BRAF V600E/K
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600E/K,BRAF V600E/K
+missense,DABRAFENIB,melanoma (disease),sensitive,BRAF,V600E/K,BRAF V600E/K
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600E/K,BRAF V600E/K
+missense,BINIMETINIB,melanoma (disease),sensitive,BRAF,V600E/K,BRAF V600E/K
+missense,ENCORAFENIB,melanoma (disease),sensitive,BRAF,V600E/K,BRAF V600E/K
+missense,BINIMETINIB,melanoma (disease),sensitive,BRAF,V600E/K,BRAF V600E/K
+missense,ENCORAFENIB,melanoma (disease),sensitive,BRAF,V600E/K,BRAF V600E/K
+missense,BINIMETINIB,melanoma (disease),sensitive,BRAF,V600E/K,BRAF V600E/K
+missense,ENCORAFENIB,melanoma (disease),sensitive,BRAF,V600E/K,BRAF V600E/K
+missense,VEMURAFENIB,melanoma (disease),sensitive,BRAF,V600E/K,BRAF V600E/K
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600E/K,BRAF V600E/K
+missense,TRAMETINIB,melanoma (disease),sensitive,BRAF,V600E/K,BRAF V600E/K
+missense,VEMURAFENIB,cancer,resistant,BRAF,D594N,BRAF D594N
+missense,VEMURAFENIB,cancer,resistant,BRAF,L597V,BRAF L597V
+missense,DASATINIB,non-small cell lung carcinoma (disease),sensitive,BRAF,Y472C,BRAF Y472C
+missense,VEMURAFENIB,non-small cell lung carcinoma (disease),resistant,BRAF,G469A,BRAF G469A
+missense,ENCORAFENIB,non-small cell lung carcinoma (disease),sensitive,BRAF,G469A,BRAF G469A
+missense,TRAMETINIB,non-small cell lung carcinoma (disease),sensitive,BRAF,G469A,BRAF G469A
+missense,PLX8394,lung adenocarcinoma,sensitive,BRAF,G469A,BRAF G469A
+missense,TRAMETINIB,non-small cell lung carcinoma (disease),sensitive,BRAF,G469A,BRAF G469A
+missense,Ulixertinib,head and neck cancer,sensitive,BRAF,G469A,BRAF G469A
+missense,VEMURAFENIB,cancer,resistant,BRAF,G469A,BRAF G469A
+missense,VEMURAFENIB,cancer,resistant,BRAF,G469A,BRAF G469A
+missense,Ulixertinib,small intestine carcinoma,sensitive,BRAF,G469A,BRAF G469A
+missense,DABRAFENIB,non-small cell lung carcinoma (disease),sensitive,BRAF,G469A,BRAF G469A
+missense,TRAMETINIB,non-small cell lung carcinoma (disease),sensitive,BRAF,G469A,BRAF G469A
+missense,DABRAFENIB,non-small cell lung carcinoma (disease),sensitive,BRAF,G469A,BRAF G469A
+missense,DINACICLIB,triple-negative breast carcinoma,sensitive,BRCA1,R1443*,BRCA1 R1443*
+missense,VELIPARIB,triple-negative breast carcinoma,sensitive,BRCA1,R1443*,BRCA1 R1443*
+missense,RUCAPARIB,ovarian carcinoma,sensitive,BRCA1,N682*,BRCA1 N682*
+missense,RUCAPARIB,ovarian carcinoma,sensitive,BRCA1,W1782*,BRCA1 W1782*
+missense,DINACICLIB,triple-negative breast carcinoma,sensitive,BRCA2,S1970*,BRCA2 S1970*
+missense,VELIPARIB,triple-negative breast carcinoma,sensitive,BRCA2,S1970*,BRCA2 S1970*
+missense,PALBOCICLIB,gastric carcinoma,sensitive,CDKN2A,R80*,CDKN2A R80*
+missense,Imatinib,myeloid leukemia,sensitive,CSF1R,Y571D,CSF1R Y571D
+missense,RUXOLITINIB,cancer,sensitive,CSF3R,N610S,CSF3R N610S
+missense,TRAMETINIB,cancer,sensitive,CSF3R,N610S,CSF3R N610S
+missense,IBRUTINIB,cancer,sensitive,CSF3R,Q741*,CSF3R Q741*
+missense,RUXOLITINIB,cancer,sensitive,CSF3R,Q741*,CSF3R Q741*
+missense,RUXOLITINIB,cancer,sensitive,CSF3R,Q741*,CSF3R Q741*
+missense,IBRUTINIB,cancer,sensitive,CSF3R,Q741*,CSF3R Q741*
+missense,RUXOLITINIB,cancer,sensitive,CSF3R,N610H,CSF3R N610H
+missense,TRAMETINIB,cancer,sensitive,CSF3R,N610H,CSF3R N610H
+missense,IBRUTINIB,cancer,sensitive,CSF3R,T618I,CSF3R T618I
+missense,IBRUTINIB,cancer,sensitive,CSF3R,T618I,CSF3R T618I
+missense,RUXOLITINIB,cancer,sensitive,CSF3R,T618I,CSF3R T618I
+missense,RUXOLITINIB,cancer,sensitive,CSF3R,T618I,CSF3R T618I
+missense,RUXOLITINIB,cancer,sensitive,CSF3R,T640N,CSF3R T640N
+missense,Imatinib,desmoid tumor,sensitive,CTNNB1,T41A,CTNNB1 T41A
+missense,Imatinib,desmoid tumor,sensitive,CTNNB1,S45F,CTNNB1 S45F
+missense,Lapatinib,breast cancer,resistant,ERBB2,L726F,ERBB2 L726F
+missense,Lapatinib,cancer,resistant,ERBB2,L726F,ERBB2 L726F
+missense,AFATINIB,lung adenocarcinoma,sensitive,ERBB2,N813D,ERBB2 N813D
+missense,Lapatinib,cancer,sensitive,ERBB2,H878Y,ERBB2 H878Y
+missense,AEE-788,cancer,sensitive,ERBB2,H878Y,ERBB2 H878Y
+missense,NERATINIB,urinary bladder cancer,resistant,ERBB2,D769Y,ERBB2 D769Y
+missense,NERATINIB,breast cancer,sensitive,ERBB2,D769Y,ERBB2 D769Y
+missense,Lapatinib,breast cancer,sensitive,ERBB2,D769Y,ERBB2 D769Y
+missense,NERATINIB,gastroesophageal junction adenocarcinoma,resistant,ERBB2,D769Y,ERBB2 D769Y
+missense,Lapatinib,cancer,resistant,ERBB2,T733I,ERBB2 T733I
+missense,Lapatinib,breast cancer,sensitive,ERBB2,T798M,ERBB2 T798M
+missense,Lapatinib,breast cancer,sensitive,ERBB2,T798M,ERBB2 T798M
+missense,Lapatinib,Her2-receptor positive breast cancer,resistant,ERBB2,T798M,ERBB2 T798M
+missense,Lapatinib,cancer,resistant,ERBB2,T798M,ERBB2 T798M
+missense,AEE-788,cancer,resistant,ERBB2,T798M,ERBB2 T798M
+missense,CI-1040,breast cancer,resistant,ERBB2,T798M,ERBB2 T798M
+missense,BUPARLISIB,breast cancer,sensitive,ERBB2,T798M,ERBB2 T798M
+missense,AFATINIB,breast cancer,sensitive,ERBB2,T798M,ERBB2 T798M
+missense,Pilaralisib,breast cancer,sensitive,ERBB2,T798M,ERBB2 T798M
+missense,Lapatinib,cancer,sensitive,ERBB2,G660R,ERBB2 G660R
+missense,NERATINIB,cancer,sensitive,ERBB2,G660R,ERBB2 G660R
+missense,AFATINIB,cancer,sensitive,ERBB2,G660R,ERBB2 G660R
+missense,NERATINIB,breast cancer,sensitive,ERBB2,V773L,ERBB2 V773L
+missense,Lapatinib,breast cancer,sensitive,ERBB2,V773L,ERBB2 V773L
+missense,NERATINIB,colorectal cancer,resistant,ERBB2,G778A,ERBB2 G778A
+missense,NERATINIB,cervical cancer,resistant,ERBB2,S310Y,ERBB2 S310Y
+missense,NERATINIB,colorectal cancer,sensitive,ERBB2,S310Y,ERBB2 S310Y
+missense,AFATINIB,squamous cell lung carcinoma,sensitive,ERBB2,S310Y,ERBB2 S310Y
+missense,NERATINIB,gastroesophageal junction adenocarcinoma,resistant,ERBB2,S310Y,ERBB2 S310Y
+missense,NERATINIB,colorectal cancer,sensitive,ERBB2,S310Y,ERBB2 S310Y
+missense,Lapatinib,colorectal cancer,sensitive,ERBB2,S310Y,ERBB2 S310Y
+missense,Lapatinib,colorectal cancer,sensitive,ERBB2,S310Y,ERBB2 S310Y
+missense,Mobocertinib,cancer,sensitive,ERBB2,G776V,ERBB2 G776V
+missense,Lapatinib,cancer,resistant,ERBB2,S783P,ERBB2 S783P
+missense,Lapatinib,cancer,resistant,ERBB2,V773A,ERBB2 V773A
+missense,AEE-788,cancer,sensitive,ERBB2,V773A,ERBB2 V773A
+missense,AEE-788,cancer,resistant,ERBB2,L755S,ERBB2 L755S
+missense,Lapatinib,Her2-receptor positive breast cancer,resistant,ERBB2,L755S,ERBB2 L755S
+missense,Lapatinib,cancer,resistant,ERBB2,L755S,ERBB2 L755S
+missense,NERATINIB,breast cancer,sensitive,ERBB2,L755S,ERBB2 L755S
+missense,NERATINIB,colorectal cancer,sensitive,ERBB2,L755S,ERBB2 L755S
+missense,NERATINIB,colon carcinoma,sensitive,ERBB2,L755S,ERBB2 L755S
+missense,NERATINIB,colon carcinoma,sensitive,ERBB2,L755S,ERBB2 L755S
+missense,NERATINIB,Her2-receptor negative breast cancer,sensitive,ERBB2,L755S,ERBB2 L755S
+missense,AFATINIB,colorectal cancer,sensitive,ERBB2,L755S,ERBB2 L755S
+missense,NERATINIB,non-small cell lung carcinoma (disease),sensitive,ERBB2,L755S,ERBB2 L755S
+missense,NERATINIB,breast cancer,sensitive,ERBB2,R678Q,ERBB2 R678Q
+missense,NERATINIB,cancer,sensitive,ERBB2,R678Q,ERBB2 R678Q
+missense,Lapatinib,breast cancer,sensitive,ERBB2,R678Q,ERBB2 R678Q
+missense,Lapatinib,cancer,sensitive,ERBB2,R678Q,ERBB2 R678Q
+missense,NERATINIB,gastroesophageal junction adenocarcinoma,resistant,ERBB2,R678Q,ERBB2 R678Q
+missense,AFATINIB,cancer,sensitive,ERBB2,R678Q,ERBB2 R678Q
+missense,NERATINIB,colorectal cancer,resistant,ERBB2,R678Q,ERBB2 R678Q
+missense,Lapatinib,cancer,resistant,ERBB2,L785F,ERBB2 L785F
+missense,Lapatinib,cancer,resistant,ERBB2,Y803N,ERBB2 Y803N
+missense,Lapatinib,cancer,resistant,ERBB2,T798I,ERBB2 T798I
+missense,Lapatinib,lung cancer,resistant,ERBB2,T798I,ERBB2 T798I
+missense,AEE-788,cancer,resistant,ERBB2,L755P,ERBB2 L755P
+missense,Lapatinib,cancer,resistant,ERBB2,L755P,ERBB2 L755P
+missense,Lapatinib,breast cancer,sensitive,ERBB2,G309A,ERBB2 G309A
+missense,NERATINIB,breast cancer,sensitive,ERBB2,G309A,ERBB2 G309A
+missense,NERATINIB,colon carcinoma,sensitive,ERBB2,V777L,ERBB2 V777L
+missense,Lapatinib,breast cancer,sensitive,ERBB2,V777L,ERBB2 V777L
+missense,AFATINIB,colorectal cancer,sensitive,ERBB2,V777L,ERBB2 V777L
+missense,NERATINIB,Her2-receptor negative breast cancer,sensitive,ERBB2,V777L,ERBB2 V777L
+missense,AEE-788,cancer,sensitive,ERBB2,V777L,ERBB2 V777L
+missense,NERATINIB,gastroesophageal junction adenocarcinoma,resistant,ERBB2,V777L,ERBB2 V777L
+missense,NERATINIB,colorectal cancer,sensitive,ERBB2,V777L,ERBB2 V777L
+missense,Lapatinib,cancer,sensitive,ERBB2,V777L,ERBB2 V777L
+missense,NERATINIB,breast cancer,sensitive,ERBB2,V777L,ERBB2 V777L
+missense,NERATINIB,triple-negative breast carcinoma,sensitive,ERBB2,V697L,ERBB2 V697L
+missense,NERATINIB,endometrial cancer,resistant,ERBB2,V697L,ERBB2 V697L
+missense,NERATINIB,cancer,sensitive,ERBB2,V697L,ERBB2 V697L
+missense,NERATINIB,urinary bladder cancer,resistant,ERBB2,G292R,ERBB2 G292R
+missense,NERATINIB,colorectal cancer,resistant,ERBB2,L841V,ERBB2 L841V
+missense,AFATINIB,cancer,sensitive,ERBB2,G660D,ERBB2 G660D
+missense,AFATINIB,lung cancer,sensitive,ERBB2,G660D,ERBB2 G660D
+missense,AFATINIB,lung cancer,sensitive,ERBB2,G660D,ERBB2 G660D
+missense,AFATINIB,lung cancer,sensitive,ERBB2,G660D,ERBB2 G660D
+missense,NERATINIB,cancer,sensitive,ERBB2,G660D,ERBB2 G660D
+missense,Lapatinib,cancer,sensitive,ERBB2,G660D,ERBB2 G660D
+missense,Lapatinib,cancer,resistant,ERBB2,E719G,ERBB2 E719G
+missense,Lapatinib,breast cancer,sensitive,ERBB2,L768S,ERBB2 L768S
+missense,NERATINIB,breast cancer,sensitive,ERBB2,L768S,ERBB2 L768S
+missense,NERATINIB,breast cancer,sensitive,ERBB2,K753E,ERBB2 K753E
+missense,Lapatinib,breast cancer,resistant,ERBB2,K753E,ERBB2 K753E
+missense,AFATINIB,colorectal cancer,sensitive,ERBB2,L866M,ERBB2 L866M
+missense,NERATINIB,colorectal cancer,sensitive,ERBB2,L866M,ERBB2 L866M
+missense,NERATINIB,colon carcinoma,sensitive,ERBB2,L866M,ERBB2 L866M
+missense,AEE-788,cancer,sensitive,ERBB2,T862A,ERBB2 T862A
+missense,Lapatinib,cancer,resistant,ERBB2,T862A,ERBB2 T862A
+missense,Poziotinib,lung adenocarcinoma,sensitive,ERBB2,E812K,ERBB2 E812K
+missense,Lapatinib,cancer,resistant,ERBB2,E812K,ERBB2 E812K
+missense,AEE-788,cancer,sensitive,ERBB2,N857S,ERBB2 N857S
+missense,Lapatinib,cancer,resistant,ERBB2,N857S,ERBB2 N857S
+missense,Lapatinib,urinary bladder cancer,sensitive,ERBB2,S310F,ERBB2 S310F
+missense,SELUMETINIB,urinary bladder cancer,resistant,ERBB2,S310F,ERBB2 S310F
+missense,NERATINIB,Her2-receptor negative breast cancer,sensitive,ERBB2,S310F,ERBB2 S310F
+missense,Lapatinib,cancer,sensitive,ERBB2,S310F,ERBB2 S310F
+missense,AFATINIB,colorectal cancer,sensitive,ERBB2,S310F,ERBB2 S310F
+missense,NERATINIB,cervical cancer,sensitive,ERBB2,S310F,ERBB2 S310F
+missense,NERATINIB,non-small cell lung carcinoma (disease),resistant,ERBB2,S310F,ERBB2 S310F
+missense,NERATINIB,colon carcinoma,sensitive,ERBB2,S310F,ERBB2 S310F
+missense,AFATINIB,urinary bladder cancer,sensitive,ERBB2,S310F,ERBB2 S310F
+missense,NERATINIB,cancer,sensitive,ERBB2,S310F,ERBB2 S310F
+missense,NERATINIB,colorectal cancer,resistant,ERBB2,K831N,ERBB2 K831N
+missense,NERATINIB,cancer,sensitive,ERBB2,V659E,ERBB2 V659E
+missense,AFATINIB,lung cancer,sensitive,ERBB2,V659E,ERBB2 V659E
+missense,TIVOZANIB,breast cancer,sensitive,ERBB2,V659E,ERBB2 V659E
+missense,GEFITINIB,cancer,resistant,ERBB2,V659E,ERBB2 V659E
+missense,Adenosine,lung adenocarcinoma,sensitive,ERBB2,V659E,ERBB2 V659E
+missense,AFATINIB,cancer,sensitive,ERBB2,V659E,ERBB2 V659E
+missense,Lapatinib,cancer,sensitive,ERBB2,V659E,ERBB2 V659E
+missense,Lapatinib,breast cancer,sensitive,ERBB2,D769H,ERBB2 D769H
+missense,NERATINIB,colorectal cancer,resistant,ERBB2,D769H,ERBB2 D769H
+missense,NERATINIB,breast cancer,sensitive,ERBB2,D769H,ERBB2 D769H
+missense,SELUMETINIB,urinary bladder cancer,resistant,ERBB2,S653C,ERBB2 S653C
+missense,AFATINIB,urinary bladder cancer,sensitive,ERBB2,S653C,ERBB2 S653C
+missense,Lapatinib,urinary bladder cancer,sensitive,ERBB2,S653C,ERBB2 S653C
+missense,NERATINIB,cancer,sensitive,ERBB2,L663P,ERBB2 L663P
+missense,Lapatinib,cancer,sensitive,ERBB2,L663P,ERBB2 L663P
+missense,AFATINIB,cancer,sensitive,ERBB2,L663P,ERBB2 L663P
+missense,NERATINIB,breast cancer,sensitive,ERBB2,V842I,ERBB2 V842I
+missense,AFATINIB,colorectal cancer,sensitive,ERBB2,V842I,ERBB2 V842I
+missense,NERATINIB,colon carcinoma,sensitive,ERBB2,V842I,ERBB2 V842I
+missense,NERATINIB,endometrial cancer,resistant,ERBB2,V842I,ERBB2 V842I
+missense,Lapatinib,breast cancer,sensitive,ERBB2,V842I,ERBB2 V842I
+missense,NERATINIB,Her2-receptor negative breast cancer,sensitive,ERBB2,L869R,ERBB2 L869R
+missense,Lapatinib,lung adenocarcinoma,resistant,ERBB2,L869R,ERBB2 L869R
+missense,AFATINIB,breast cancer,sensitive,ERBB2,L869R,ERBB2 L869R
+missense,NERATINIB,breast cancer,sensitive,ERBB2,L869R,ERBB2 L869R
+missense,NERATINIB,breast cancer,sensitive,ERBB2,L869R,ERBB2 L869R
+missense,Lapatinib,breast cancer,resistant,ERBB2,L869R,ERBB2 L869R
+missense,Lapatinib,cancer,resistant,ERBB2,P780L,ERBB2 P780L
+missense,Lapatinib,cancer,resistant,ERBB2,E717K,ERBB2 E717K
+missense,NERATINIB,breast cancer,sensitive,ERBB2,R896C,ERBB2 R896C
+missense,Lapatinib,breast cancer,sensitive,ERBB2,R896C,ERBB2 R896C
+missense,AFATINIB,cancer,sensitive,ERBB2,Q709L,ERBB2 Q709L
+missense,Lapatinib,cancer,sensitive,ERBB2,Q709L,ERBB2 Q709L
+missense,GEFITINIB,breast cancer,resistant,ERBB2,L726I,ERBB2 L726I
+missense,Lapatinib,melanoma (disease),sensitive,ERBB4,R393W,ERBB4 R393W
+missense,AFATINIB,head and neck squamous cell carcinoma,sensitive,ERBB4,G1109C,ERBB4 G1109C
+missense,Lapatinib,melanoma (disease),sensitive,ERBB4,E317K,ERBB4 E317K
+missense,Lapatinib,melanoma (disease),sensitive,ERBB4,E452K,ERBB4 E452K
+missense,Lapatinib,melanoma (disease),sensitive,ERBB4,R544W,ERBB4 R544W
+missense,Lapatinib,melanoma (disease),sensitive,ERBB4,E563K,ERBB4 E563K
+missense,Tazemetostat,non-Hodgkin lymphoma,sensitive,EZH2,Y646H,EZH2 Y646H
+missense,Tazemetostat,cancer,resistant,EZH2,Y111D,EZH2 Y111D
+missense,RICOLINOSTAT,diffuse large B-cell lymphoma,sensitive,EZH2,Y641S,EZH2 Y641S
+missense,RICOLINOSTAT,diffuse large B-cell lymphoma,sensitive,EZH2,Y641S,EZH2 Y641S
+missense,VORINOSTAT,diffuse large B-cell lymphoma,sensitive,EZH2,Y641S,EZH2 Y641S
+missense,RICOLINOSTAT,diffuse large B-cell lymphoma,sensitive,EZH2,Y641S,EZH2 Y641S
+missense,Tazemetostat,lymphoma,sensitive,EZH2,Y646F,EZH2 Y646F
+missense,VORINOSTAT,diffuse large B-cell lymphoma,sensitive,EZH2,Y641N,EZH2 Y641N
+missense,RICOLINOSTAT,diffuse large B-cell lymphoma,sensitive,EZH2,Y641N,EZH2 Y641N
+missense,Doxorubicin,diffuse large B-cell lymphoma,sensitive,EZH2,Y641N,EZH2 Y641N
+missense,RICOLINOSTAT,diffuse large B-cell lymphoma,sensitive,EZH2,Y641N,EZH2 Y641N
+missense,RICOLINOSTAT,diffuse large B-cell lymphoma,sensitive,EZH2,Y641N,EZH2 Y641N
+missense,RICOLINOSTAT,diffuse large B-cell lymphoma,sensitive,EZH2,Y641N,EZH2 Y641N
+missense,REGORAFENIB,colorectal cancer,resistant,FBXW7,R505C,FBXW7 R505C
+missense,VORINOSTAT,head and neck squamous cell carcinoma,sensitive,FBXW7,R505C,FBXW7 R505C
+missense,AZD-4547,non-small cell lung carcinoma (disease),resistant,FGFR1,V561M,FGFR1 V561M
+missense,DEBIO-1347,cancer,resistant,FGFR2,V564L,FGFR2 V564L
+missense,LENVATINIB,cancer,sensitive,FGFR2,K660E,FGFR2 K660E
+missense,PONATINIB,cancer,sensitive,FGFR2,K660E,FGFR2 K660E
+missense,PAZOPANIB,cancer,sensitive,FGFR2,K660E,FGFR2 K660E
+missense,Infigratinib,cancer,sensitive,FGFR2,K660E,FGFR2 K660E
+missense,CEDIRANIB,cancer,sensitive,FGFR2,K660E,FGFR2 K660E
+missense,AZD-4547,cancer,sensitive,FGFR2,K660E,FGFR2 K660E
+missense,AZD-4547,cancer,resistant,FGFR2,V564F,FGFR2 V564F
+missense,Infigratinib,cancer,resistant,FGFR2,V564F,FGFR2 V564F
+missense,DEBIO-1347,cancer,sensitive,FGFR2,V564F,FGFR2 V564F
+missense,Infigratinib,intrahepatic cholangiocarcinoma,sensitive,FGFR2,F276C,FGFR2 F276C
+missense,PONATINIB,cancer,sensitive,FGFR2,N550H,FGFR2 N550H
+missense,PONATINIB,cancer,sensitive,FGFR2,N550S,FGFR2 N550S
+missense,PONATINIB,cancer,resistant,FGFR2,M538I,FGFR2 M538I
+missense,PONATINIB,cancer,sensitive,FGFR2,N550K,FGFR2 N550K
+missense,AZD-4547,endometrial cancer,resistant,FGFR2,N550K,FGFR2 N550K
+missense,PONATINIB,cancer,sensitive,FGFR2,M536I,FGFR2 M536I
+missense,NINTEDANIB,endometrial cancer,sensitive,FGFR2,S252W,FGFR2 S252W
+missense,DEBIO-1347,endometrial cancer,sensitive,FGFR2,S252W,FGFR2 S252W
+missense,PONATINIB,endometrial cancer,sensitive,FGFR2,S252W,FGFR2 S252W
+missense,BRIVANIB,endometrial cancer,sensitive,FGFR2,S252W,FGFR2 S252W
+missense,CEDIRANIB,endometrial cancer,sensitive,FGFR2,S252W,FGFR2 S252W
+missense,AZD-4547,endometrial cancer,resistant,FGFR2,S252W,FGFR2 S252W
+missense,RO4987655,endometrial carcinoma (disease),resistant,FGFR2,S252W,FGFR2 S252W
+missense,SELUMETINIB,endometrial carcinoma (disease),resistant,FGFR2,S252W,FGFR2 S252W
+missense,Derazantinib,endometrial cancer,sensitive,FGFR2,S252W,FGFR2 S252W
+missense,RO-5126766 free base,endometrial carcinoma (disease),sensitive,FGFR2,S252W,FGFR2 S252W
+missense,DEBIO-1347,cancer,resistant,FGFR2,V564I,FGFR2 V564I
+missense,PONATINIB,cancer,sensitive,FGFR2,I548V,FGFR2 I548V
+missense,PAZOPANIB,head and neck squamous cell carcinoma,sensitive,FGFR2,P253R,FGFR2 P253R
+missense,PAZOPANIB,cancer,sensitive,FGFR2,K660N,FGFR2 K660N
+missense,CEDIRANIB,cancer,sensitive,FGFR2,K660N,FGFR2 K660N
+missense,Infigratinib,cancer,sensitive,FGFR2,K660N,FGFR2 K660N
+missense,AZD-4547,cancer,sensitive,FGFR2,K660N,FGFR2 K660N
+missense,LENVATINIB,cancer,sensitive,FGFR2,K660N,FGFR2 K660N
+missense,PONATINIB,cancer,sensitive,FGFR2,K660N,FGFR2 K660N
+missense,AZD-4547,cancer,sensitive,FGFR2,W290C,FGFR2 W290C
+missense,PAZOPANIB,cancer,sensitive,FGFR2,W290C,FGFR2 W290C
+missense,Infigratinib,cancer,sensitive,FGFR2,W290C,FGFR2 W290C
+missense,CEDIRANIB,cancer,sensitive,FGFR2,W290C,FGFR2 W290C
+missense,LENVATINIB,cancer,sensitive,FGFR2,W290C,FGFR2 W290C
+missense,PONATINIB,cancer,sensitive,FGFR2,W290C,FGFR2 W290C
+missense,DEBIO-1347,endometrial cancer,sensitive,FGFR2,N549K,FGFR2 N549K
+missense,CEDIRANIB,endometrial cancer,sensitive,FGFR2,N549K,FGFR2 N549K
+missense,Derazantinib,endometrial cancer,sensitive,FGFR2,N549K,FGFR2 N549K
+missense,NINTEDANIB,endometrial cancer,resistant,FGFR2,N549K,FGFR2 N549K
+missense,PONATINIB,endometrial cancer,sensitive,FGFR2,N549K,FGFR2 N549K
+missense,PONATINIB,cancer,resistant,FGFR2,V565I,FGFR2 V565I
+missense,PONATINIB,cancer,sensitive,FGFR2,L618M,FGFR2 L618M
+missense,PONATINIB,cancer,sensitive,FGFR2,E566G,FGFR2 E566G
+missense,Infigratinib,cancer,resistant,FGFR3,V555M,FGFR3 V555M
+missense,AZD-4547,cancer,resistant,FGFR3,V555M,FGFR3 V555M
+missense,LY-2874455,cancer,sensitive,FGFR3,V555M,FGFR3 V555M
+missense,PONATINIB,cancer,sensitive,FGFR3,V555M,FGFR3 V555M
+missense,DEBIO-1347,cancer,resistant,FGFR3,V555M,FGFR3 V555M
+missense,Infigratinib,transitional cell carcinoma,resistant,FGFR3,V555M,FGFR3 V555M
+missense,Infigratinib,cancer,resistant,FGFR3,V555L,FGFR3 V555L
+missense,Infigratinib,transitional cell carcinoma,resistant,FGFR3,V555L,FGFR3 V555L
+missense,LY-2874455,cancer,sensitive,FGFR3,L608V,FGFR3 L608V
+missense,PONATINIB,cancer,sensitive,FGFR3,L608V,FGFR3 L608V
+missense,AZD-4547,cancer,resistant,FGFR3,L608V,FGFR3 L608V
+missense,Infigratinib,cancer,resistant,FGFR3,L608V,FGFR3 L608V
+missense,DEBIO-1347,cancer,resistant,FGFR3,L608V,FGFR3 L608V
+missense,CEDIRANIB,urinary bladder cancer,sensitive,FGFR3,S249C,FGFR3 S249C
+missense,PONATINIB,cancer,sensitive,FGFR3,S249C,FGFR3 S249C
+missense,DEBIO-1347,urinary bladder cancer,sensitive,FGFR3,S249C,FGFR3 S249C
+missense,PAZOPANIB,renal pelvis urothelial carcinoma,sensitive,FGFR3,S249C,FGFR3 S249C
+missense,Infigratinib,cancer,sensitive,FGFR3,S249C,FGFR3 S249C
+missense,PONATINIB,urinary bladder cancer,sensitive,FGFR3,S249C,FGFR3 S249C
+missense,AZD-4547,malignant urinary system neoplasm,sensitive,FGFR3,S249C,FGFR3 S249C
+missense,NINTEDANIB,urinary bladder cancer,resistant,FGFR3,S249C,FGFR3 S249C
+missense,Infigratinib,malignant urinary system neoplasm,sensitive,FGFR3,S249C,FGFR3 S249C
+missense,Infigratinib,cancer,sensitive,FGFR3,R248C,FGFR3 R248C
+missense,PAZOPANIB,cancer,sensitive,FGFR3,R248C,FGFR3 R248C
+missense,DEBIO-1347,myeloid neoplasm,sensitive,FGFR3,F386L,FGFR3 F386L
+missense,NINTEDANIB,urinary bladder cancer,resistant,FGFR3,Y375C,FGFR3 Y375C
+missense,PONATINIB,urinary bladder cancer,sensitive,FGFR3,Y375C,FGFR3 Y375C
+missense,CEDIRANIB,urinary bladder cancer,resistant,FGFR3,Y375C,FGFR3 Y375C
+missense,DEBIO-1347,myeloid neoplasm,sensitive,FGFR3,Y373C,FGFR3 Y373C
+missense,AZD-4547,cancer,resistant,FGFR3,K650E,FGFR3 K650E
+missense,Infigratinib,cancer,resistant,FGFR3,K650E,FGFR3 K650E
+missense,LY-2874455,cancer,sensitive,FGFR3,K650E,FGFR3 K650E
+missense,ERDAFITINIB,cancer,sensitive,FGFR3,K650E,FGFR3 K650E
+missense,DEBIO-1347,myeloid neoplasm,sensitive,FGFR3,K650E,FGFR3 K650E
+missense,DEBIO-1347,cancer,sensitive,FGFR3,K650E,FGFR3 K650E
+missense,PONATINIB,cancer,sensitive,FGFR3,K650E,FGFR3 K650E
+missense,Infigratinib,head and neck squamous cell carcinoma,resistant,FGFR3,S131L,FGFR3 S131L
+missense,DEBIO-1347,cancer,resistant,FGFR3,N540K,FGFR3 N540K
+missense,ERDAFITINIB,cancer,sensitive,FGFR3,N540K,FGFR3 N540K
+missense,Infigratinib,cancer,resistant,FGFR3,N540K,FGFR3 N540K
+missense,LY-2874455,cancer,resistant,FGFR3,N540K,FGFR3 N540K
+missense,AZD-4547,cancer,resistant,FGFR3,N540K,FGFR3 N540K
+missense,PONATINIB,cancer,sensitive,FGFR3,N540K,FGFR3 N540K
+missense,Derazantinib,urinary bladder cancer,sensitive,FGFR3,K652E,FGFR3 K652E
+missense,CRENOLANIB,acute myeloid leukemia,sensitive,FLT3,D835X,FLT3 D835X
+missense,SELINEXOR,acute myeloid leukemia,sensitive,FLT3,D835X,FLT3 D835X
+missense,Sorafenib,acute myeloid leukemia,sensitive,FLT3,D835X,FLT3 D835X
+missense,MIDOSTAURIN,cancer,sensitive,FLT3,R834Q,FLT3 R834Q
+missense,MIDOSTAURIN,cancer,sensitive,FLT3,Y572C,FLT3 Y572C
+missense,PEXIDARTINIB,cancer,resistant,FLT3,D835V,FLT3 D835V
+missense,MIDOSTAURIN,acute myeloid leukemia,sensitive,FLT3,Y842C,FLT3 Y842C
+missense,Imatinib,acute myeloid leukemia,resistant,FLT3,Y842C,FLT3 Y842C
+missense,MIDOSTAURIN,cancer,sensitive,FLT3,D835Y,FLT3 D835Y
+missense,PEXIDARTINIB,cancer,resistant,FLT3,D835Y,FLT3 D835Y
+missense,TRETINOIN,acute promyelocytic leukemia,resistant,FLT3,D835Y,FLT3 D835Y
+missense,CYTARABINE,acute promyelocytic leukemia,sensitive,FLT3,D835Y,FLT3 D835Y
+missense,METHOTREXATE,acute promyelocytic leukemia,sensitive,FLT3,D835Y,FLT3 D835Y
+missense,TRETINOIN,acute promyelocytic leukemia,sensitive,FLT3,D835Y,FLT3 D835Y
+missense,MIDOSTAURIN,cancer,resistant,FLT3,S451F,FLT3 S451F
+missense,CRENOLANIB,acute myeloid leukemia,sensitive,FLT3,D835H,FLT3 D835H
+missense,MIDOSTAURIN,cancer,sensitive,FLT3,V592G,FLT3 V592G
+missense,TRAMETINIB,uveal melanoma,sensitive,GNA11,Q209L,GNA11 Q209L
+missense,SOTRASTAURIN ACETATE,uveal melanoma,sensitive,GNA11,Q209L,GNA11 Q209L
+missense,BINIMETINIB,uveal melanoma,sensitive,GNA11,Q209L,GNA11 Q209L
+missense,malathion,uveal melanoma,sensitive,GNA11,Q209L,GNA11 Q209L
+missense,SOTRASTAURIN ACETATE,uveal melanoma,sensitive,GNAQ,Q209L,GNAQ Q209L
+missense,TRAMETINIB,uveal melanoma,sensitive,GNAQ,Q209L,GNAQ Q209L
+missense,TRAMETINIB,uveal melanoma,sensitive,GNAQ,Q209L,GNAQ Q209L
+missense,malathion,uveal melanoma,sensitive,GNAQ,Q209L,GNAQ Q209L
+missense,SELUMETINIB,uveal melanoma,sensitive,GNAQ,Q209L,GNAQ Q209L
+missense,ENZASTAURIN,uveal melanoma,sensitive,GNAQ,Q209L,GNAQ Q209L
+missense,SOTRASTAURIN ACETATE,uveal melanoma,sensitive,GNAQ,Q209L,GNAQ Q209L
+missense,malathion,uveal melanoma,sensitive,GNAQ,Q209P,GNAQ Q209P
+missense,SELUMETINIB,uveal melanoma,sensitive,GNAQ,Q209P,GNAQ Q209P
+missense,SOTRASTAURIN ACETATE,uveal melanoma,sensitive,GNAQ,Q209P,GNAQ Q209P
+missense,ENZASTAURIN,uveal melanoma,sensitive,GNAQ,Q209P,GNAQ Q209P
+missense,TRAMETINIB,head and neck squamous cell carcinoma,sensitive,HRAS,Q61L,HRAS Q61L
+missense,BINIMETINIB,squamous cell lung carcinoma,sensitive,HRAS,Q61L,HRAS Q61L
+missense,BINIMETINIB,squamous cell lung carcinoma,sensitive,HRAS,Q61L,HRAS Q61L
+missense,SELUMETINIB,squamous cell lung carcinoma,sensitive,HRAS,Q61L,HRAS Q61L
+missense,BINIMETINIB,cancer,sensitive,HRAS,Q61L,HRAS Q61L
+missense,BINIMETINIB,cancer,sensitive,HRAS,Q61L,HRAS Q61L
+missense,SELUMETINIB,squamous cell lung carcinoma,sensitive,HRAS,Q61L,HRAS Q61L
+missense,RIGOSERTIB,cancer,sensitive,HRAS,G12V,HRAS G12V
+missense,BINIMETINIB,urinary bladder cancer,sensitive,HRAS,G12V,HRAS G12V
+missense,SR9011,cancer,sensitive,HRAS,G12V,HRAS G12V
+missense,BINIMETINIB,cancer,sensitive,HRAS,G12V,HRAS G12V
+missense,CI-1040,melanoma (disease),sensitive,HRAS,G12V,HRAS G12V
+missense,SELUMETINIB,urinary bladder cancer,sensitive,HRAS,G12V,HRAS G12V
+missense,BINIMETINIB,cancer,sensitive,HRAS,G12V,HRAS G12V
+missense,SR9009,cancer,sensitive,HRAS,G12V,HRAS G12V
+missense,BINIMETINIB,cancer,sensitive,HRAS,Q61R,HRAS Q61R
+missense,DASATINIB,intrahepatic cholangiocarcinoma,sensitive,IDH1,R132S,IDH1 R132S
+missense,SARACATINIB,intrahepatic cholangiocarcinoma,sensitive,IDH1,R132S,IDH1 R132S
+missense,DASATINIB,intrahepatic cholangiocarcinoma,sensitive,IDH1,R132C,IDH1 R132C
+missense,OLAPARIB,sarcoma,sensitive,IDH1,R132C,IDH1 R132C
+missense,OLAPARIB,sarcoma,resistant,IDH1,R132C,IDH1 R132C
+missense,SARACATINIB,intrahepatic cholangiocarcinoma,sensitive,IDH1,R132C,IDH1 R132C
+missense,Metformin,colorectal cancer,resistant,IDH1,R132H,IDH1 R132H
+missense,NIRAPARIB,cancer,sensitive,IDH1,R132H,IDH1 R132H
+missense,OLAPARIB,colon carcinoma,sensitive,IDH1,R132H,IDH1 R132H
+missense,BERZOSERTIB,cancer,sensitive,IDH1,R132H,IDH1 R132H
+missense,RUCAPARIB,cancer,sensitive,IDH1,R132H,IDH1 R132H
+missense,DECITABINE,oligodendroglioma,sensitive,IDH1,R132H,IDH1 R132H
+missense,AZACITIDINE,grade III astrocytoma,sensitive,IDH1,R132H,IDH1 R132H
+missense,OLAPARIB,cancer,sensitive,IDH1,R132H,IDH1 R132H
+missense,TEMOZOLOMIDE,glioma susceptibility 1,sensitive,IDH1,R132H,IDH1 R132H
+missense,VANDETANIB,glioma susceptibility 1,sensitive,IDH1,R132H,IDH1 R132H
+missense,Metformin,colorectal cancer,sensitive,IDH1,R132H,IDH1 R132H
+missense,ENASIDENIB,acute myeloid leukemia,sensitive,IDH2,R140Q,IDH2 R140Q
+missense,ENASIDENIB,glioma susceptibility 1,sensitive,IDH2,R140Q,IDH2 R140Q
+missense,ENASIDENIB,glioma susceptibility 1,sensitive,IDH2,R172K,IDH2 R172K
+missense,ENASIDENIB,colorectal cancer,sensitive,IDH2,R172K,IDH2 R172K
+missense,ENASIDENIB,acute myeloid leukemia,sensitive,IDH2,R172K,IDH2 R172K
+missense,RUXOLITINIB,B-cell childhood acute lymphoblastic leukemia,resistant,JAK2,R938Q,JAK2 R938Q
+missense,Fedratinib,hematopoietic and lymphoid cell neoplasm,resistant,JAK2,R867Q,JAK2 R867Q
+missense,MOMELOTINIB,hematopoietic and lymphoid cell neoplasm,resistant,JAK2,R867Q,JAK2 R867Q
+missense,RUXOLITINIB,hematopoietic and lymphoid cell neoplasm,resistant,JAK2,R867Q,JAK2 R867Q
+missense,RUXOLITINIB,cancer,sensitive,JAK2,V617F,JAK2 V617F
+missense,Gandotinib,myeloproliferative neoplasm,sensitive,JAK2,V617F,JAK2 V617F
+missense,PICTILISIB,cancer,sensitive,JAK2,V617F,JAK2 V617F
+missense,RUXOLITINIB,cancer,sensitive,JAK2,V617F,JAK2 V617F
+missense,RUXOLITINIB,bone marrow cancer,sensitive,JAK2,V617F,JAK2 V617F
+missense,RUXOLITINIB,cancer,sensitive,JAK2,V617F,JAK2 V617F
+missense,Imatinib,myeloid leukemia,resistant,JAK2,V617F,JAK2 V617F
+missense,RUXOLITINIB,cancer,sensitive,JAK2,V617F,JAK2 V617F
+missense,RUXOLITINIB,bone marrow cancer,sensitive,JAK2,V617F,JAK2 V617F
+missense,NS-018,hematopoietic and lymphoid cell neoplasm,sensitive,JAK2,V617F,JAK2 V617F
+missense,RUXOLITINIB,acute myeloid leukemia,sensitive,JAK2,V617F,JAK2 V617F
+missense,RUXOLITINIB,cancer,resistant,JAK2,Y931C,JAK2 Y931C
+missense,NS-018,acute myeloid leukemia,resistant,JAK3,A572V,JAK3 A572V
+missense,TOFACITINIB,mature T-cell and NK-cell lymphoma,sensitive,JAK3,A572V,JAK3 A572V
+missense,TOFACITINIB,cancer,sensitive,JAK3,A572V,JAK3 A572V
+missense,TOFACITINIB,cancer,sensitive,JAK3,R172Q,JAK3 R172Q
+missense,TOFACITINIB,hematopoietic and lymphoid cell neoplasm,sensitive,JAK3,G589D,JAK3 G589D
+missense,TOFACITINIB,cancer,sensitive,JAK3,E183G,JAK3 E183G
+missense,TOFACITINIB,hematopoietic and lymphoid cell neoplasm,sensitive,JAK3,H583Y,JAK3 H583Y
+missense,TOFACITINIB,cancer,sensitive,JAK3,L156P,JAK3 L156P
+missense,TOFACITINIB,hematopoietic and lymphoid cell neoplasm,sensitive,JAK3,M511I,JAK3 M511I
+missense,RUXOLITINIB,cancer,resistant,JAK3,L857P,JAK3 L857P
+missense,TOFACITINIB,cancer,sensitive,JAK3,L857P,JAK3 L857P
+missense,TOFACITINIB,hematopoietic and lymphoid cell neoplasm,sensitive,JAK3,A573V,JAK3 A573V
+missense,TOFACITINIB,cancer,sensitive,JAK3,V722I,JAK3 V722I
+missense,RUXOLITINIB,cancer,sensitive,JAK3,V674A,JAK3 V674A
+missense,TOFACITINIB,cancer,sensitive,JAK3,V674A,JAK3 V674A
+missense,CABOZANTINIB,colorectal cancer,sensitive,KDR,R1032Q,KDR R1032Q
+missense,LENVATINIB,colorectal cancer,sensitive,KDR,R1032Q,KDR R1032Q
+missense,SUNITINIB,cancer,sensitive,KDR,A1065T,KDR A1065T
+missense,SUNITINIB,cancer,sensitive,KDR,D717V,KDR D717V
+missense,Sorafenib,colorectal cancer,resistant,KDR,L840F,KDR L840F
+missense,REGORAFENIB,colorectal cancer,resistant,KDR,L840F,KDR L840F
+missense,NILOTINIB,cancer,sensitive,KIT,V560G,KIT V560G
+missense,PONATINIB,cancer,sensitive,KIT,V560G,KIT V560G
+missense,Imatinib,gastrointestinal stromal tumor,resistant,KIT,D820N,KIT D820N
+missense,Imatinib,gastrointestinal stromal tumor,sensitive,KIT,T670I,KIT T670I
+missense,Imatinib,melanoma (disease),resistant,KIT,T670I,KIT T670I
+missense,NILOTINIB,melanoma (disease),resistant,KIT,T670I,KIT T670I
+missense,DASATINIB,melanoma (disease),resistant,KIT,T670I,KIT T670I
+missense,PONATINIB,cancer,sensitive,KIT,T670I,KIT T670I
+missense,SUNITINIB,melanoma (disease),sensitive,KIT,T670I,KIT T670I
+missense,Imatinib,cancer,resistant,KIT,D816F,KIT D816F
+missense,Imatinib,cancer,resistant,KIT,V654A,KIT V654A
+missense,PONATINIB,cancer,sensitive,KIT,V654A,KIT V654A
+missense,CYTARABINE,acute myeloid leukemia,sensitive,KIT,D816V,KIT D816V
+missense,DASATINIB,acute myeloid leukemia,sensitive,KIT,D816V,KIT D816V
+missense,Sorafenib,hematopoietic and lymphoid cell neoplasm,resistant,KIT,D816V,KIT D816V
+missense,Flumatinib,cancer,resistant,KIT,D816V,KIT D816V
+missense,PONATINIB,cancer,resistant,KIT,D816V,KIT D816V
+missense,Imatinib,hematopoietic and lymphoid cell neoplasm,resistant,KIT,D816V,KIT D816V
+missense,FF-10101-01,hematopoietic and lymphoid cell neoplasm,sensitive,KIT,D816V,KIT D816V
+missense,Imatinib,Indication other than cancer,resistant,KIT,D816V,KIT D816V
+missense,Imatinib,cancer,resistant,KIT,D816V,KIT D816V
+missense,NILOTINIB,cancer,resistant,KIT,D816V,KIT D816V
+missense,QUIZARTINIB,cancer,resistant,KIT,D816V,KIT D816V
+missense,CABOZANTINIB,cancer,resistant,KIT,D816V,KIT D816V
+missense,SUNITINIB,cancer,resistant,KIT,D816V,KIT D816V
+missense,SUNITINIB,cancer,resistant,KIT,D816V,KIT D816V
+missense,Sorafenib,melanoma (disease),sensitive,KIT,D820Y,KIT D820Y
+missense,DASATINIB,melanoma (disease),sensitive,KIT,D820Y,KIT D820Y
+missense,Imatinib,melanoma (disease),resistant,KIT,D820Y,KIT D820Y
+missense,DASATINIB,melanoma (disease),sensitive,KIT,L576P,KIT L576P
+missense,DASATINIB,melanoma (disease),sensitive,KIT,L576P,KIT L576P
+missense,Sorafenib,melanoma (disease),sensitive,KIT,L576P,KIT L576P
+missense,NILOTINIB,melanoma (disease),sensitive,KIT,L576P,KIT L576P
+missense,Sorafenib,melanoma (disease),sensitive,KIT,N505I,KIT N505I
+missense,Imatinib,melanoma (disease),sensitive,KIT,N505I,KIT N505I
+missense,NILOTINIB,melanoma (disease),sensitive,KIT,V559A,KIT V559A
+missense,Imatinib,melanoma (disease),sensitive,KIT,V559A,KIT V559A
+missense,Imatinib,gastrointestinal stromal tumor,resistant,KIT,V559A,KIT V559A
+missense,NILOTINIB,melanoma (disease),sensitive,KIT,V559D,KIT V559D
+missense,Flumatinib,cancer,sensitive,KIT,V559D,KIT V559D
+missense,Imatinib,cancer,sensitive,KIT,V559D,KIT V559D
+missense,Imatinib,cancer,sensitive,KIT,V559D,KIT V559D
+missense,SUNITINIB,cancer,sensitive,KIT,V559D,KIT V559D
+missense,DASATINIB,cancer,sensitive,KIT,V559D,KIT V559D
+missense,PONATINIB,cancer,sensitive,KIT,V559D,KIT V559D
+missense,NILOTINIB,melanoma (disease),sensitive,KIT,W557R,KIT W557R
+missense,Imatinib,melanoma (disease),resistant,KIT,A829P,KIT A829P
+missense,PONATINIB,cancer,sensitive,KIT,A829P,KIT A829P
+missense,SUNITINIB,melanoma (disease),resistant,KIT,A829P,KIT A829P
+missense,DASATINIB,melanoma (disease),sensitive,KIT,A829P,KIT A829P
+missense,NILOTINIB,melanoma (disease),sensitive,KIT,A829P,KIT A829P
+missense,Sorafenib,thymic carcinoma,sensitive,KIT,D820E,KIT D820E
+missense,PONATINIB,cancer,sensitive,KIT,D820E,KIT D820E
+missense,Imatinib,thymic carcinoma,sensitive,KIT,Y553N,KIT Y553N
+missense,Imatinib,cancer,sensitive,KIT,Y578C,KIT Y578C
+missense,Ripretinib,mast cell neoplasm,sensitive,KIT,D816Y,KIT D816Y
+missense,Imatinib,cancer,resistant,KIT,D816Y,KIT D816Y
+missense,Imatinib,cancer,resistant,KIT,D816Y,KIT D816Y
+missense,Flumatinib,cancer,resistant,KIT,D816Y,KIT D816Y
+missense,SUNITINIB,cancer,resistant,KIT,D816Y,KIT D816Y
+missense,Imatinib,chronic leukemia,sensitive,KIT,M541L,KIT M541L
+missense,Imatinib,gastrointestinal stromal tumor,sensitive,KIT,K642E,KIT K642E
+missense,NILOTINIB,melanoma (disease),sensitive,KIT,K642E,KIT K642E
+missense,Imatinib,vulvar melanoma (disease),sensitive,KIT,K642E,KIT K642E
+missense,PONATINIB,gastrointestinal stromal tumor,sensitive,KIT,K642E,KIT K642E
+missense,REGORAFENIB,gastrointestinal stromal tumor,sensitive,KIT,K642E,KIT K642E
+missense,DASATINIB,cancer,sensitive,KIT,N822I,KIT N822I
+missense,Imatinib,cancer,resistant,KIT,N822I,KIT N822I
+missense,PONATINIB,childhood leukemia,sensitive,KIT,N822K,KIT N822K
+missense,Ripretinib,acute myeloid leukemia,sensitive,KIT,N822K,KIT N822K
+missense,Flumatinib,cancer,sensitive,KIT,N822K,KIT N822K
+missense,SUNITINIB,cancer,sensitive,KIT,N822K,KIT N822K
+missense,Imatinib,gastrointestinal stromal tumor,resistant,KIT,N822K,KIT N822K
+missense,Imatinib,cancer,resistant,KIT,N822K,KIT N822K
+missense,Imatinib,mucosal melanoma,sensitive,KIT,C443S,KIT C443S
+missense,MOTESANIB,cancer,sensitive,KIT,Y823D,KIT Y823D
+missense,MOTESANIB,cancer,sensitive,KIT,V560D,KIT V560D
+missense,Imatinib,cancer,sensitive,KIT,V560D,KIT V560D
+missense,SUNITINIB,cancer,sensitive,KIT,V560D,KIT V560D
+missense,REGORAFENIB,cancer,sensitive,KIT,V560D,KIT V560D
+missense,Sorafenib,cancer,sensitive,KIT,V560D,KIT V560D
+missense,DASATINIB,cancer,sensitive,KIT,V560D,KIT V560D
+missense,NILOTINIB,melanoma (disease),sensitive,KIT,V560D,KIT V560D
+missense,PONATINIB,cancer,sensitive,KIT,V560D,KIT V560D
+missense,PONATINIB,cancer,sensitive,KIT,D816H,KIT D816H
+missense,REGORAFENIB,cancer,resistant,KIT,D816H,KIT D816H
+missense,Flumatinib,cancer,sensitive,KIT,D816H,KIT D816H
+missense,SUNITINIB,cancer,sensitive,KIT,D816H,KIT D816H
+missense,NILOTINIB,mast cell leukemia,sensitive,KIT,S476I,KIT S476I
+missense,MIDOSTAURIN,mast cell leukemia,sensitive,KIT,S476I,KIT S476I
+missense,Imatinib,cancer,resistant,KIT,H697Y,KIT H697Y
+missense,SUNITINIB,cancer,sensitive,KIT,H697Y,KIT H697Y
+missense,Imatinib,cancer,sensitive,KIT,W557G,KIT W557G
+missense,TRAMETINIB,pancreatic adenocarcinoma,sensitive,KRAS,G12D,KRAS G12D
+missense,SELUMETINIB,pancreatic ductal adenocarcinoma,sensitive,KRAS,G12D,KRAS G12D
+missense,RIGOSERTIB,exocrine pancreatic carcinoma,sensitive,KRAS,G12D,KRAS G12D
+missense,MK-1775,cancer,sensitive,KRAS,G12D,KRAS G12D
+missense,AZD-8055,cancer,sensitive,KRAS,G12D,KRAS G12D
+missense,Sonolisib,lung adenocarcinoma,sensitive,KRAS,G12D,KRAS G12D
+missense,SELUMETINIB,lung cancer,sensitive,KRAS,G12D,KRAS G12D
+missense,NERATINIB,colorectal cancer,resistant,KRAS,G12D,KRAS G12D
+missense,SUNITINIB,colorectal cancer,resistant,KRAS,G12D,KRAS G12D
+missense,SELUMETINIB,lung adenocarcinoma,resistant,KRAS,G12D,KRAS G12D
+missense,BUPARLISIB,gastric carcinoma,sensitive,KRAS,G12D,KRAS G12D
+missense,BINIMETINIB,ovarian epithelial tumor,sensitive,KRAS,G12D,KRAS G12D
+missense,SELUMETINIB,pancreatic ductal adenocarcinoma,resistant,KRAS,G12D,KRAS G12D
+missense,ZSTK-474,colorectal cancer,sensitive,KRAS,G12D,KRAS G12D
+missense,Gemcitabine,exocrine pancreatic carcinoma,sensitive,KRAS,G12D,KRAS G12D
+missense,SELUMETINIB,lung adenocarcinoma,sensitive,KRAS,G12D,KRAS G12D
+missense,PONATINIB,exocrine pancreatic carcinoma,sensitive,KRAS,G12D,KRAS G12D
+missense,TRAMETINIB,exocrine pancreatic carcinoma,sensitive,KRAS,G12D,KRAS G12D
+missense,COPANLISIB,biliary tract cancer,sensitive,KRAS,G12D,KRAS G12D
+missense,REFAMETINIB,biliary tract cancer,sensitive,KRAS,G12D,KRAS G12D
+missense,PICTILISIB,myelodysplastic/myeloproliferative Neoplasm,sensitive,KRAS,G12D,KRAS G12D
+missense,NERATINIB,colorectal cancer,resistant,KRAS,G12D,KRAS G12D
+missense,TRAMETINIB,pancreatic ductal adenocarcinoma,sensitive,KRAS,G12D,KRAS G12D
+missense,malathion,cholangiocarcinoma,sensitive,KRAS,G12D,KRAS G12D
+missense,TRAMETINIB,pancreatic ductal adenocarcinoma,sensitive,KRAS,G12D,KRAS G12D
+missense,LY-294002,cancer,sensitive,KRAS,G12D,KRAS G12D
+missense,PD-0325901,lung adenocarcinoma,sensitive,KRAS,G12D,KRAS G12D
+missense,PICTILISIB,exocrine pancreatic carcinoma,sensitive,KRAS,G12D,KRAS G12D
+missense,SELUMETINIB,exocrine pancreatic carcinoma,sensitive,KRAS,G12D,KRAS G12D
+missense,PICTILISIB,exocrine pancreatic carcinoma,resistant,KRAS,G12D,KRAS G12D
+missense,SELUMETINIB,pancreatic ductal adenocarcinoma,sensitive,KRAS,G12D,KRAS G12D
+missense,TRAMETINIB,head and neck squamous cell carcinoma,sensitive,KRAS,G12V,KRAS G12V
+missense,SELUMETINIB,ovarian serous adenocarcinoma,sensitive,KRAS,G12V,KRAS G12V
+missense,SELUMETINIB,pancreatic ductal adenocarcinoma,sensitive,KRAS,G12V,KRAS G12V
+missense,SELUMETINIB,pancreatic ductal adenocarcinoma,sensitive,KRAS,G12V,KRAS G12V
+missense,SELUMETINIB,pancreatic ductal adenocarcinoma,resistant,KRAS,G12V,KRAS G12V
+missense,BINIMETINIB,lung adenocarcinoma,resistant,KRAS,G12V,KRAS G12V
+missense,PIMASERTIB,non-small cell lung carcinoma (disease),sensitive,KRAS,G12V,KRAS G12V
+missense,ALPELISIB,colorectal cancer,sensitive,KRAS,G12V,KRAS G12V
+missense,SUNITINIB,colorectal cancer,resistant,KRAS,G12V,KRAS G12V
+missense,BINIMETINIB,ovarian epithelial tumor,sensitive,KRAS,G12V,KRAS G12V
+missense,SELUMETINIB,lung adenocarcinoma,resistant,KRAS,G12V,KRAS G12V
+missense,NERATINIB,colorectal cancer,resistant,KRAS,G12V,KRAS G12V
+missense,TRAMETINIB,pancreatic ductal adenocarcinoma,sensitive,KRAS,G12V,KRAS G12V
+missense,SELUMETINIB,non-small cell lung carcinoma (disease),sensitive,KRAS,G12V,KRAS G12V
+missense,REGORAFENIB,colorectal cancer,resistant,KRAS,G12V,KRAS G12V
+missense,TRAMETINIB,pancreatic ductal adenocarcinoma,sensitive,KRAS,G12V,KRAS G12V
+missense,TRAMETINIB,pancreatic ductal adenocarcinoma,sensitive,KRAS,G12V,KRAS G12V
+missense,REGORAFENIB,colorectal cancer,sensitive,KRAS,G12V,KRAS G12V
+missense,Pilaralisib,non-small cell lung carcinoma (disease),sensitive,KRAS,Q61K,KRAS Q61K
+missense,BINIMETINIB,lung adenocarcinoma,resistant,KRAS,Q61K,KRAS Q61K
+missense,SELUMETINIB,lung adenocarcinoma,resistant,KRAS,Q61K,KRAS Q61K
+missense,BINIMETINIB,exocrine pancreatic carcinoma,sensitive,KRAS,G12X,KRAS G12X
+missense,COBIMETINIB,exocrine pancreatic carcinoma,sensitive,KRAS,G12X,KRAS G12X
+missense,COBIMETINIB,non-small cell lung carcinoma (disease),sensitive,KRAS,G12X,KRAS G12X
+missense,GEFITINIB,lung adenocarcinoma,resistant,KRAS,G12X,KRAS G12X
+missense,Erlotinib,lung adenocarcinoma,resistant,KRAS,G12X,KRAS G12X
+missense,PD-0325901,cancer,sensitive,KRAS,G12X,KRAS G12X
+missense,SALIRASIB,cancer,sensitive,KRAS,G12X,KRAS G12X
+missense,FLUOROURACIL,colon carcinoma,sensitive,KRAS,A59T,KRAS A59T
+missense,Irinotecan,colon carcinoma,sensitive,KRAS,A59T,KRAS A59T
+missense,Leucovorin,colon carcinoma,sensitive,KRAS,A59T,KRAS A59T
+missense,SELUMETINIB,lung adenocarcinoma,resistant,KRAS,G13C,KRAS G13C
+missense,BINIMETINIB,lung adenocarcinoma,resistant,KRAS,G13C,KRAS G13C
+missense,TRAMETINIB,colorectal cancer,sensitive,KRAS,G12C,KRAS G12C
+missense,SUNITINIB,colorectal cancer,resistant,KRAS,G12C,KRAS G12C
+missense,BINIMETINIB,lung adenocarcinoma,resistant,KRAS,G12C,KRAS G12C
+missense,SELUMETINIB,pancreatic ductal adenocarcinoma,sensitive,KRAS,G12C,KRAS G12C
+missense,SELUMETINIB,lung adenocarcinoma,resistant,KRAS,G12C,KRAS G12C
+missense,PD-0325901,pancreatic adenocarcinoma,sensitive,KRAS,G12C,KRAS G12C
+missense,COBIMETINIB,non-small cell lung carcinoma (disease),sensitive,KRAS,G12C,KRAS G12C
+missense,SELUMETINIB,non-small cell lung carcinoma (disease),sensitive,KRAS,G12C,KRAS G12C
+missense,SELUMETINIB,pancreatic adenocarcinoma,sensitive,KRAS,G12C,KRAS G12C
+missense,TRAMETINIB,non-small cell lung carcinoma (disease),sensitive,KRAS,G12C,KRAS G12C
+missense,SELUMETINIB,pancreatic ductal adenocarcinoma,resistant,KRAS,G12C,KRAS G12C
+missense,COBIMETINIB,exocrine pancreatic carcinoma,sensitive,KRAS,G12C,KRAS G12C
+missense,GEDATOLISIB,exocrine pancreatic carcinoma,sensitive,KRAS,G12C,KRAS G12C
+missense,TRAMETINIB,non-small cell lung carcinoma (disease),sensitive,KRAS,G12C,KRAS G12C
+missense,TRAMETINIB,lung cancer,sensitive,KRAS,G12C,KRAS G12C
+missense,TRAMETINIB,pancreatic ductal adenocarcinoma,sensitive,KRAS,G12C,KRAS G12C
+missense,TRAMETINIB,pancreatic adenocarcinoma,sensitive,KRAS,G12C,KRAS G12C
+missense,REFAMETINIB,pancreatic adenocarcinoma,sensitive,KRAS,G12C,KRAS G12C
+missense,TRAMETINIB,non-small cell lung carcinoma (disease),sensitive,KRAS,G12C,KRAS G12C
+missense,Ulixertinib,exocrine pancreatic carcinoma,sensitive,KRAS,G12C,KRAS G12C
+missense,Sorafenib,non-small cell lung carcinoma (disease),sensitive,KRAS,G12C,KRAS G12C
+missense,PICTILISIB,non-small cell lung carcinoma (disease),sensitive,KRAS,G12C,KRAS G12C
+missense,AFATINIB,lung adenocarcinoma,sensitive,KRAS,G12C,KRAS G12C
+missense,SELUMETINIB,non-small cell lung carcinoma (disease),sensitive,KRAS,G12C,KRAS G12C
+missense,COBIMETINIB,lymphatic system cancer,sensitive,KRAS,R149G,KRAS R149G
+missense,SALIRASIB,cancer,sensitive,KRAS,G13X,KRAS G13X
+missense,GEFITINIB,lung adenocarcinoma,resistant,KRAS,G13X,KRAS G13X
+missense,PAZOPANIB,thyroid cancer,sensitive,KRAS,G12R,KRAS G12R
+missense,SUNITINIB,colorectal cancer,resistant,KRAS,G12R,KRAS G12R
+missense,SELUMETINIB,pancreatic ductal adenocarcinoma,resistant,KRAS,G12R,KRAS G12R
+missense,TRAMETINIB,thyroid cancer,sensitive,KRAS,G12R,KRAS G12R
+missense,BINIMETINIB,lung adenocarcinoma,resistant,KRAS,G12R,KRAS G12R
+missense,SELUMETINIB,pancreatic ductal adenocarcinoma,sensitive,KRAS,G12R,KRAS G12R
+missense,SELUMETINIB,lung adenocarcinoma,resistant,KRAS,G12R,KRAS G12R
+missense,PAZOPANIB,thyroid cancer,sensitive,KRAS,G12R,KRAS G12R
+missense,TRAMETINIB,thyroid cancer,sensitive,KRAS,G12R,KRAS G12R
+missense,REGORAFENIB,colorectal cancer,resistant,KRAS,G13D,KRAS G13D
+missense,PIMASERTIB,colorectal cancer,sensitive,KRAS,G13D,KRAS G13D
+missense,REGORAFENIB,colorectal cancer,sensitive,KRAS,G13D,KRAS G13D
+missense,RO4987655,colorectal adenocarcinoma,sensitive,KRAS,G13D,KRAS G13D
+missense,PIMASERTIB,colorectal cancer,resistant,KRAS,G13D,KRAS G13D
+missense,PALBOCICLIB,colorectal cancer,sensitive,KRAS,G13D,KRAS G13D
+missense,TRAMETINIB,colorectal cancer,sensitive,KRAS,G13D,KRAS G13D
+missense,RIGOSERTIB,colorectal cancer,sensitive,KRAS,G13D,KRAS G13D
+missense,RO-5126766 free base,colorectal adenocarcinoma,sensitive,KRAS,G13D,KRAS G13D
+missense,NERATINIB,colorectal cancer,resistant,KRAS,G13D,KRAS G13D
+missense,REGORAFENIB,colorectal cancer,sensitive,KRAS,G13D,KRAS G13D
+missense,SELUMETINIB,colorectal adenocarcinoma,sensitive,KRAS,G13D,KRAS G13D
+missense,COBIMETINIB,colorectal cancer,sensitive,KRAS,G13D,KRAS G13D
+missense,SUNITINIB,colorectal cancer,resistant,KRAS,G13D,KRAS G13D
+missense,PIMASERTIB,colorectal cancer,sensitive,KRAS,G13D,KRAS G13D
+missense,Sorafenib,colorectal cancer,sensitive,KRAS,G13D,KRAS G13D
+missense,TRAMETINIB,colon carcinoma,sensitive,KRAS,G13D,KRAS G13D
+missense,PIMASERTIB,colorectal cancer,sensitive,KRAS,G13D,KRAS G13D
+missense,REGORAFENIB,colorectal cancer,resistant,KRAS,G12A,KRAS G12A
+missense,PANOBINOSTAT,plasma cell myeloma,sensitive,KRAS,G12A,KRAS G12A
+missense,CUDC-907,plasma cell myeloma,sensitive,KRAS,G12A,KRAS G12A
+missense,SELUMETINIB,pancreatic ductal adenocarcinoma,resistant,KRAS,Q61R,KRAS Q61R
+missense,SELUMETINIB,pancreatic ductal adenocarcinoma,sensitive,KRAS,Q61R,KRAS Q61R
+missense,CUDC-907,non-small cell lung carcinoma (disease),sensitive,KRAS,Q61H,KRAS Q61H
+missense,TRAMETINIB,colorectal cancer,resistant,KRAS,Q61H,KRAS Q61H
+missense,SELUMETINIB,lung adenocarcinoma,resistant,KRAS,Q61H,KRAS Q61H
+missense,PICTILISIB,non-small cell lung carcinoma (disease),resistant,KRAS,Q61H,KRAS Q61H
+missense,BINIMETINIB,lung adenocarcinoma,resistant,KRAS,Q61H,KRAS Q61H
+missense,Sorafenib,ovarian carcinoma,sensitive,KRAS,Q61H,KRAS Q61H
+missense,AFATINIB,lung adenocarcinoma,sensitive,KRAS,G12S,KRAS G12S
+missense,TRAMETINIB,lung cancer,resistant,KRAS,G12S,KRAS G12S
+missense,PIMASERTIB,non-small cell lung carcinoma (disease),sensitive,KRAS,G12S,KRAS G12S
+missense,REGORAFENIB,non-small cell lung carcinoma (disease),sensitive,KRAS,G12S,KRAS G12S
+missense,PIMASERTIB,non-small cell lung carcinoma (disease),sensitive,KRAS,G12S,KRAS G12S
+missense,Sorafenib,non-small cell lung carcinoma (disease),sensitive,KRAS,G12S,KRAS G12S
+missense,BINIMETINIB,lung adenocarcinoma,resistant,KRAS,G12S,KRAS G12S
+missense,PD-0325901,lung cancer,resistant,KRAS,G12S,KRAS G12S
+missense,RIGOSERTIB,lung cancer,sensitive,KRAS,G12S,KRAS G12S
+missense,SELUMETINIB,lung cancer,sensitive,KRAS,G12S,KRAS G12S
+missense,SELUMETINIB,lung adenocarcinoma,resistant,KRAS,G12S,KRAS G12S
+missense,TRAMETINIB,lung cancer,sensitive,KRAS,G12S,KRAS G12S
+missense,REFAMETINIB,lung cancer,resistant,KRAS,G12S,KRAS G12S
+missense,GEDATOLISIB,non-small cell lung carcinoma (disease),sensitive,KRAS,G12S,KRAS G12S
+missense,BINIMETINIB,lung cancer,sensitive,KRAS,G12S,KRAS G12S
+missense,BINIMETINIB,exocrine pancreatic carcinoma,sensitive,KRAS,G12S,KRAS G12S
+missense,SUNITINIB,colorectal cancer,resistant,KRAS,G12S,KRAS G12S
+missense,TRAMETINIB,non-small cell lung carcinoma (disease),sensitive,KRAS,G12S,KRAS G12S
+missense,TRAMETINIB,non-small cell lung carcinoma (disease),sensitive,KRAS,G12S,KRAS G12S
+missense,PIMASERTIB,non-small cell lung carcinoma (disease),sensitive,KRAS,G12S,KRAS G12S
+missense,PD-0325901,colorectal cancer,sensitive,KRAS,A146T,KRAS A146T
+missense,CI-1040,cancer,sensitive,MAP2K1,F53S,MAP2K1 F53S
+missense,TRAMETINIB,colorectal cancer,sensitive,MAP2K1,K57T,MAP2K1 K57T
+missense,TRAMETINIB,colorectal cancer,sensitive,MAP2K1,K57T,MAP2K1 K57T
+missense,REGORAFENIB,cancer,resistant,MAP2K1,V211D,MAP2K1 V211D
+missense,PLX-4720,cancer,sensitive,MAP2K1,V211D,MAP2K1 V211D
+missense,SELUMETINIB,cancer,resistant,MAP2K1,V211D,MAP2K1 V211D
+missense,AZD-8330,cancer,resistant,MAP2K1,V211D,MAP2K1 V211D
+missense,CI-1040,cancer,resistant,MAP2K1,L115A,MAP2K1 L115A
+missense,DABRAFENIB,melanoma (disease),resistant,MAP2K1,K57E,MAP2K1 K57E
+missense,AZD-8330,cancer,resistant,MAP2K1,K57N,MAP2K1 K57N
+missense,PLX-4720,cancer,sensitive,MAP2K1,K57N,MAP2K1 K57N
+missense,TRAMETINIB,colorectal cancer,sensitive,MAP2K1,K57N,MAP2K1 K57N
+missense,REGORAFENIB,cancer,resistant,MAP2K1,K57N,MAP2K1 K57N
+missense,SELUMETINIB,lung adenocarcinoma,sensitive,MAP2K1,K57N,MAP2K1 K57N
+missense,TRAMETINIB,colorectal cancer,sensitive,MAP2K1,K57N,MAP2K1 K57N
+missense,SELUMETINIB,cancer,sensitive,MAP2K1,K57N,MAP2K1 K57N
+missense,TRAMETINIB,lymphatic system cancer,sensitive,MAP2K1,K57N,MAP2K1 K57N
+missense,PLX-4720,cancer,sensitive,MAP2K1,F53L,MAP2K1 F53L
+missense,SELUMETINIB,cancer,sensitive,MAP2K1,F53L,MAP2K1 F53L
+missense,TRAMETINIB,colorectal cancer,sensitive,MAP2K1,F53L,MAP2K1 F53L
+missense,REGORAFENIB,cancer,resistant,MAP2K1,F53L,MAP2K1 F53L
+missense,TRAMETINIB,colorectal cancer,sensitive,MAP2K1,F53L,MAP2K1 F53L
+missense,AZD-8330,cancer,resistant,MAP2K1,F53L,MAP2K1 F53L
+missense,TRAMETINIB,colorectal cancer,sensitive,MAP2K1,C121S,MAP2K1 C121S
+missense,AZD-8330,cancer,resistant,MAP2K1,C121S,MAP2K1 C121S
+missense,REGORAFENIB,cancer,resistant,MAP2K1,C121S,MAP2K1 C121S
+missense,SELUMETINIB,cancer,sensitive,MAP2K1,C121S,MAP2K1 C121S
+missense,PLX-4720,cancer,sensitive,MAP2K1,C121S,MAP2K1 C121S
+missense,SELUMETINIB,cancer,sensitive,MAP2K1,Q56P,MAP2K1 Q56P
+missense,COBIMETINIB,lymphatic system cancer,sensitive,MAP2K1,Q56P,MAP2K1 Q56P
+missense,COBIMETINIB,lymphatic system cancer,sensitive,MAP2K1,Q56P,MAP2K1 Q56P
+missense,AZD-8330,cancer,resistant,MAP2K1,Q56P,MAP2K1 Q56P
+missense,SELUMETINIB,lung adenocarcinoma,sensitive,MAP2K1,Q56P,MAP2K1 Q56P
+missense,REGORAFENIB,cancer,resistant,MAP2K1,Q56P,MAP2K1 Q56P
+missense,PLX-4720,cancer,sensitive,MAP2K1,Q56P,MAP2K1 Q56P
+missense,PD-0325901,lung adenocarcinoma,sensitive,MAP2K1,Q56P,MAP2K1 Q56P
+missense,SELUMETINIB,gastric carcinoma,sensitive,MAP2K1,Q56P,MAP2K1 Q56P
+missense,TRAMETINIB,lung adenocarcinoma,sensitive,MAP2K1,Q56P,MAP2K1 Q56P
+missense,TRAMETINIB,gastric carcinoma,sensitive,MAP2K1,Q56P,MAP2K1 Q56P
+missense,REFAMETINIB,lung adenocarcinoma,sensitive,MAP2K1,Q56P,MAP2K1 Q56P
+missense,AZD-8330,cancer,resistant,MAP2K1,F129L,MAP2K1 F129L
+missense,PLX-4720,cancer,sensitive,MAP2K1,F129L,MAP2K1 F129L
+missense,REGORAFENIB,cancer,resistant,MAP2K1,F129L,MAP2K1 F129L
+missense,SELUMETINIB,cancer,sensitive,MAP2K1,F129L,MAP2K1 F129L
+missense,SELUMETINIB,melanoma (disease),resistant,MAP2K1,P124L,MAP2K1 P124L
+missense,COBIMETINIB,lymphatic system cancer,sensitive,MAP2K1,P124L,MAP2K1 P124L
+missense,CI-1040,cancer,resistant,MAP2K1,L115P,MAP2K1 L115P
+missense,CI-1040,melanoma (disease),resistant,MAP2K1,L115P,MAP2K1 L115P
+missense,SELUMETINIB,melanoma (disease),resistant,MAP2K1,L115P,MAP2K1 L115P
+missense,COBIMETINIB,lymphatic system cancer,sensitive,MAP2K1,P124Q,MAP2K1 P124Q
+missense,AZD-8330,cancer,resistant,MAP2K1,I111S,MAP2K1 I111S
+missense,SELUMETINIB,cancer,sensitive,MAP2K1,I111S,MAP2K1 I111S
+missense,REGORAFENIB,cancer,resistant,MAP2K1,I111S,MAP2K1 I111S
+missense,PLX-4720,cancer,sensitive,MAP2K1,I111S,MAP2K1 I111S
+missense,TRAMETINIB,melanoma (disease),resistant,MAP2K1,V60E,MAP2K1 V60E
+missense,DABRAFENIB,melanoma (disease),resistant,MAP2K1,V60E,MAP2K1 V60E
+missense,CI-1040,melanoma (disease),resistant,MAP2K1,I103N,MAP2K1 I103N
+missense,SELUMETINIB,melanoma (disease),resistant,MAP2K1,I103N,MAP2K1 I103N
+missense,CI-1040,cancer,resistant,MAP2K1,I103N,MAP2K1 I103N
+missense,CRIZOTINIB,lung carcinoma,sensitive,MET,T1010I,MET T1010I
+missense,CRIZOTINIB,papillary renal cell carcinoma,sensitive,MET,D1228H,MET D1228H
+missense,CRIZOTINIB,papillary renal cell carcinoma,sensitive,MET,F1200I,MET F1200I
+missense,GLESATINIB,gastric carcinoma,sensitive,MET,Y1230C,MET Y1230C
+missense,MERESTINIB,cancer,sensitive,MET,Y1230C,MET Y1230C
+missense,CRIZOTINIB,gastric carcinoma,resistant,MET,Y1230C,MET Y1230C
+missense,CAPMATINIB,gastric carcinoma,resistant,MET,Y1230C,MET Y1230C
+missense,GLESATINIB,cancer,sensitive,MET,Y1230C,MET Y1230C
+missense,CRIZOTINIB,papillary renal cell carcinoma,sensitive,MET,M1149T,MET M1149T
+missense,CAPMATINIB,cancer,resistant,MET,D1228N,MET D1228N
+missense,CRIZOTINIB,cancer,resistant,MET,D1228N,MET D1228N
+missense,CABOZANTINIB,cancer,sensitive,MET,D1228N,MET D1228N
+missense,MERESTINIB,cancer,sensitive,MET,D1228N,MET D1228N
+missense,SAVOLITINIB,cancer,resistant,MET,D1228N,MET D1228N
+missense,Sorafenib,ovarian carcinoma,sensitive,MET,N375S,MET N375S
+missense,CRIZOTINIB,cancer,resistant,MET,Y1230H,MET Y1230H
+missense,CAPMATINIB,cancer,resistant,MET,Y1230H,MET Y1230H
+missense,CABOZANTINIB,cancer,sensitive,MET,Y1230H,MET Y1230H
+missense,SAVOLITINIB,cancer,resistant,MET,Y1230H,MET Y1230H
+missense,CRIZOTINIB,cancer,sensitive,MET,R988C,MET R988C
+missense,CABOZANTINIB,cancer,sensitive,MET,D1228V,MET D1228V
+missense,CRIZOTINIB,cancer,resistant,MET,D1228V,MET D1228V
+missense,SAVOLITINIB,cancer,resistant,MET,D1228V,MET D1228V
+missense,CAPMATINIB,cancer,resistant,MET,D1228V,MET D1228V
+missense,GLESATINIB,cancer,sensitive,MET,D1228V,MET D1228V
+missense,MERESTINIB,cancer,sensitive,MET,D1228V,MET D1228V
+missense,NS-018,hematopoietic and lymphoid cell neoplasm,sensitive,MPL,W515L,MPL W515L
+missense,RUXOLITINIB,cancer,sensitive,MPL,W515L,MPL W515L
+missense,RUXOLITINIB,cancer,sensitive,MPL,W515L,MPL W515L
+missense,PICTILISIB,cancer,sensitive,MPL,W515L,MPL W515L
+missense,RUXOLITINIB,cancer,sensitive,MPL,W515L,MPL W515L
+missense,RUXOLITINIB,cancer,sensitive,MPL,W515L,MPL W515L
+missense,TEMOZOLOMIDE,glioma susceptibility 1,resistant,MSH6,T1219I,MSH6 T1219I
+missense,VORINOSTAT,diffuse large B-cell lymphoma,sensitive,MYD88,L265P,MYD88 L265P
+missense,IBRUTINIB,diffuse large B-cell lymphoma,resistant,MYD88,L265P,MYD88 L265P
+missense,6-o-phosphoryl inosine monophosphate,B-cell lymphoma,sensitive,MYD88,L265P,MYD88 L265P
+missense,IBRUTINIB,primary central nervous system lymphoma,sensitive,MYD88,L265P,MYD88 L265P
+missense,BINIMETINIB,melanoma (disease),sensitive,NRAS,Q61L,NRAS Q61L
+missense,VEMURAFENIB,melanoma (disease),resistant,NRAS,Q61L,NRAS Q61L
+missense,SELUMETINIB,melanoma (disease),resistant,NRAS,Q61L,NRAS Q61L
+missense,PLX-4720,melanoma (disease),resistant,NRAS,Q61L,NRAS Q61L
+missense,TRAMETINIB,colorectal cancer,sensitive,NRAS,G12V,NRAS G12V
+missense,ALPELISIB,rhabdomyosarcoma (disease),sensitive,NRAS,Q61H,NRAS Q61H
+missense,BINIMETINIB,rhabdomyosarcoma (disease),sensitive,NRAS,Q61H,NRAS Q61H
+missense,PIMASERTIB,non-small cell lung carcinoma (disease),sensitive,NRAS,Q61K,NRAS Q61K
+missense,VEMURAFENIB,melanoma (disease),resistant,NRAS,Q61K,NRAS Q61K
+missense,GEDATOLISIB,non-small cell lung carcinoma (disease),resistant,NRAS,Q61K,NRAS Q61K
+missense,PIMASERTIB,non-small cell lung carcinoma (disease),sensitive,NRAS,Q61K,NRAS Q61K
+missense,Sorafenib,non-small cell lung carcinoma (disease),sensitive,NRAS,Q61K,NRAS Q61K
+missense,PIMASERTIB,non-small cell lung carcinoma (disease),sensitive,NRAS,Q61K,NRAS Q61K
+missense,SELUMETINIB,melanoma (disease),sensitive,NRAS,Q61K,NRAS Q61K
+missense,PIMASERTIB,non-small cell lung carcinoma (disease),sensitive,NRAS,Q61K,NRAS Q61K
+missense,REGORAFENIB,non-small cell lung carcinoma (disease),sensitive,NRAS,Q61K,NRAS Q61K
+missense,BINIMETINIB,melanoma (disease),sensitive,NRAS,Q61K,NRAS Q61K
+missense,BINIMETINIB,acute myeloid leukemia,sensitive,NRAS,G12D,NRAS G12D
+missense,ALPELISIB,acute myeloid leukemia,sensitive,NRAS,G12D,NRAS G12D
+missense,BINIMETINIB,acute myeloid leukemia,sensitive,NRAS,G12D,NRAS G12D
+missense,Dopamine,cancer,sensitive,NRAS,G12D,NRAS G12D
+missense,BINIMETINIB,melanoma (disease),sensitive,NRAS,Q61R,NRAS Q61R
+missense,SELUMETINIB,melanoma (disease),sensitive,NRAS,G13D,NRAS G13D
+missense,VEMURAFENIB,melanoma (disease),resistant,NRAS,G13D,NRAS G13D
+missense,Imatinib,childhood leukemia,sensitive,PDGFRA,H650Q,PDGFRA H650Q
+missense,Imatinib,cancer,sensitive,PDGFRA,R841K,PDGFRA R841K
+missense,CRENOLANIB,cancer,sensitive,PDGFRA,R841K,PDGFRA R841K
+missense,Imatinib,cancer,sensitive,PDGFRA,G853D,PDGFRA G853D
+missense,CRENOLANIB,cancer,sensitive,PDGFRA,G853D,PDGFRA G853D
+missense,Imatinib,cancer,sensitive,PDGFRA,H845Y,PDGFRA H845Y
+missense,CRENOLANIB,cancer,sensitive,PDGFRA,H845Y,PDGFRA H845Y
+missense,Imatinib,cancer,sensitive,PDGFRA,Y849S,PDGFRA Y849S
+missense,Imatinib,myeloid leukemia,sensitive,PDGFRA,Y849S,PDGFRA Y849S
+missense,Imatinib,gastrointestinal stromal tumor,sensitive,PDGFRA,L221F,PDGFRA L221F
+missense,CRENOLANIB,cancer,sensitive,PDGFRA,D842Y,PDGFRA D842Y
+missense,Imatinib,cancer,sensitive,PDGFRA,D842Y,PDGFRA D842Y
+missense,Imatinib,cancer,sensitive,PDGFRA,D846Y,PDGFRA D846Y
+missense,Imatinib,cancer,sensitive,PDGFRA,P577S,PDGFRA P577S
+missense,CRENOLANIB,cancer,sensitive,PDGFRA,P577S,PDGFRA P577S
+missense,Imatinib,cancer,sensitive,PDGFRA,V561D,PDGFRA V561D
+missense,Imatinib,cancer,resistant,PDGFRA,D842V,PDGFRA D842V
+missense,DASATINIB,gastrointestinal stromal tumor,sensitive,PDGFRA,D842V,PDGFRA D842V
+missense,NILOTINIB,cancer,resistant,PDGFRA,D842V,PDGFRA D842V
+missense,SUNITINIB,cancer,resistant,PDGFRA,D842V,PDGFRA D842V
+missense,CRENOLANIB,gastrointestinal stromal tumor,sensitive,PDGFRA,D842V,PDGFRA D842V
+missense,REGORAFENIB,gastrointestinal stromal tumor,sensitive,PDGFRA,D842V,PDGFRA D842V
+missense,CRENOLANIB,cancer,sensitive,PDGFRA,D842V,PDGFRA D842V
+missense,Imatinib,cancer,sensitive,PDGFRA,N659K,PDGFRA N659K
+missense,CRENOLANIB,cancer,sensitive,PDGFRA,N659K,PDGFRA N659K
+missense,CRENOLANIB,cancer,sensitive,PDGFRA,V658A,PDGFRA V658A
+missense,Imatinib,cancer,sensitive,PDGFRA,V658A,PDGFRA V658A
+missense,Imatinib,myeloid leukemia,resistant,PDGFRA,N659S,PDGFRA N659S
+missense,Imatinib,myeloid leukemia,sensitive,PDGFRA,R748G,PDGFRA R748G
+missense,ALPELISIB,prostate cancer,sensitive,PTEN,A126G,PTEN A126G
+missense,ALPELISIB,breast cancer,resistant,PTEN,C136Y,PTEN C136Y
+missense,PICTILISIB,urinary bladder cancer,resistant,PTEN,N48I,PTEN N48I
+missense,Cryptotanshinone,juvenile myelomonocytic leukemia,sensitive,PTPN11,E76K,PTPN11 E76K
+missense,LETROZOLE,Her2-receptor negative breast cancer,resistant,RB1,H483Y,RB1 H483Y
+missense,Ribociclib,Her2-receptor negative breast cancer,resistant,RB1,H483Y,RB1 H483Y
+missense,Sorafenib,thyroid medullary carcinoma,sensitive,RET,C618R,RET C618R
+missense,Sorafenib,cancer,sensitive,RET,V804M,RET V804M
+missense,LAROTRECTINIB,thyroid medullary carcinoma,sensitive,RET,V804M,RET V804M
+missense,Selpercatinib,thyroid medullary carcinoma,sensitive,RET,V804M,RET V804M
+missense,PONATINIB,cancer,sensitive,RET,V804M,RET V804M
+missense,VANDETANIB,cancer,resistant,RET,V804M,RET V804M
+missense,VANDETANIB,cancer,sensitive,RET,L790F,RET L790F
+missense,PONATINIB,cancer,sensitive,RET,L790F,RET L790F
+missense,PONATINIB,cancer,sensitive,RET,A883F,RET A883F
+missense,VANDETANIB,cancer,sensitive,RET,A883F,RET A883F
+missense,Sorafenib,thyroid medullary carcinoma,sensitive,RET,C634F,RET C634F
+missense,Sorafenib,thyroid medullary carcinoma,sensitive,RET,C634W,RET C634W
+missense,Sorafenib,thyroid carcinoma,sensitive,RET,C634W,RET C634W
+missense,Agerafenib,thyroid medullary carcinoma,sensitive,RET,C634W,RET C634W
+missense,PONATINIB,thyroid carcinoma,sensitive,RET,C634W,RET C634W
+missense,AZD-1480,thyroid cancer,sensitive,RET,C634W,RET C634W
+missense,CABOZANTINIB,thyroid carcinoma,sensitive,RET,C634W,RET C634W
+missense,LAROTRECTINIB,thyroid medullary carcinoma,sensitive,RET,C634W,RET C634W
+missense,Selpercatinib,thyroid medullary carcinoma,sensitive,RET,C634W,RET C634W
+missense,LENVATINIB,thyroid cancer,sensitive,RET,C634W,RET C634W
+missense,REGORAFENIB,thyroid cancer,sensitive,RET,C634W,RET C634W
+missense,Sorafenib,thyroid medullary carcinoma,sensitive,RET,C634R,RET C634R
+missense,VANDETANIB,cancer,sensitive,RET,C634R,RET C634R
+missense,PONATINIB,cancer,sensitive,RET,C634R,RET C634R
+missense,Sorafenib,cancer,sensitive,RET,C634R,RET C634R
+missense,Sorafenib,cancer,sensitive,RET,C634R,RET C634R
+missense,PONATINIB,cancer,sensitive,RET,C634Y,RET C634Y
+missense,Sorafenib,thyroid medullary carcinoma,sensitive,RET,C634Y,RET C634Y
+missense,VANDETANIB,cancer,resistant,RET,V804L,RET V804L
+missense,PONATINIB,cancer,sensitive,RET,V804L,RET V804L
+missense,PONATINIB,cancer,sensitive,RET,Y791F,RET Y791F
+missense,VANDETANIB,cancer,sensitive,RET,Y791F,RET Y791F
+missense,PONATINIB,cancer,sensitive,RET,E768D,RET E768D
+missense,VANDETANIB,cancer,sensitive,RET,E768D,RET E768D
+missense,Sorafenib,cancer,sensitive,RET,S891A,RET S891A
+missense,VANDETANIB,cancer,sensitive,RET,S891A,RET S891A
+missense,PONATINIB,cancer,sensitive,RET,S891A,RET S891A
+missense,PONATINIB,cancer,sensitive,RET,D898V,RET D898V
+missense,LAROTRECTINIB,thyroid medullary carcinoma,sensitive,RET,M918T,RET M918T
+missense,Selpercatinib,thyroid medullary carcinoma,sensitive,RET,M918T,RET M918T
+missense,VANDETANIB,small cell lung carcinoma,sensitive,RET,M918T,RET M918T
+missense,Sorafenib,cancer,sensitive,RET,M918T,RET M918T
+missense,PONATINIB,cancer,sensitive,RET,M918T,RET M918T
+missense,CABOZANTINIB,thyroid medullary carcinoma,sensitive,RET,M918T,RET M918T
+missense,CABOZANTINIB,thyroid medullary carcinoma,sensitive,RET,M918T,RET M918T
+missense,PONATINIB,thyroid carcinoma,sensitive,RET,M918T,RET M918T
+missense,PONATINIB,small cell lung carcinoma,sensitive,RET,M918T,RET M918T
+missense,LAROTRECTINIB,cancer,sensitive,RET,M918T,RET M918T
+missense,Selpercatinib,cancer,sensitive,RET,M918T,RET M918T
+missense,VANDETANIB,cancer,sensitive,RET,M918T,RET M918T
+missense,AZD-1480,thyroid medullary carcinoma,sensitive,RET,M918T,RET M918T
+missense,Sorafenib,thyroid medullary carcinoma,sensitive,RET,M918T,RET M918T
+missense,Sorafenib,colorectal cancer,sensitive,RET,M918T,RET M918T
+missense,PONATINIB,cancer,sensitive,RET,E884K,RET E884K
+missense,PONATINIB,cancer,sensitive,RET,Y806C,RET Y806C
+missense,SONIDEGIB,cancer,resistant,SMO,N219D,SMO N219D
+missense,VISMODEGIB,sarcoma,resistant,SMO,N219D,SMO N219D
+missense,TALADEGIB,cancer,resistant,SMO,C469Y,SMO C469Y
+missense,VISMODEGIB,cancer,resistant,SMO,C469Y,SMO C469Y
+missense,SONIDEGIB,cancer,resistant,SMO,C469Y,SMO C469Y
+missense,VISMODEGIB,cancer,resistant,SMO,F460L,SMO F460L
+missense,VISMODEGIB,cancer,resistant,SMO,T241M,SMO T241M
+missense,SONIDEGIB,cancer,resistant,SMO,T241M,SMO T241M
+missense,TALADEGIB,cancer,resistant,SMO,T241M,SMO T241M
+missense,VISMODEGIB,skin basal cell carcinoma,resistant,SMO,D473G,SMO D473G
+missense,VISMODEGIB,cancer,resistant,SMO,D473G,SMO D473G
+missense,VISMODEGIB,cancer,resistant,SMO,D473G,SMO D473G
+missense,SONIDEGIB,skin basal cell carcinoma,resistant,SMO,D473G,SMO D473G
+missense,TALADEGIB,cancer,sensitive,SMO,D473H,SMO D473H
+missense,SONIDEGIB,skin basal cell carcinoma,resistant,SMO,D473H,SMO D473H
+missense,malathion,cancer,sensitive,SMO,D473H,SMO D473H
+missense,VISMODEGIB,skin basal cell carcinoma,resistant,SMO,D473Y,SMO D473Y
+missense,SONIDEGIB,cancer,resistant,SMO,E518K,SMO E518K
+missense,VISMODEGIB,cancer,resistant,SMO,E518K,SMO E518K
+missense,VISMODEGIB,skin basal cell carcinoma,resistant,SMO,W281C,SMO W281C
+missense,SONIDEGIB,cancer,resistant,SMO,W281C,SMO W281C
+missense,TALADEGIB,cancer,resistant,SMO,W281C,SMO W281C
+missense,VISMODEGIB,cancer,resistant,SMO,L412F,SMO L412F
+missense,VISMODEGIB,skin basal cell carcinoma,resistant,SMO,H231R,SMO H231R
+missense,SONIDEGIB,cancer,resistant,SMO,V321M,SMO V321M
+missense,VISMODEGIB,cancer,resistant,SMO,V321M,SMO V321M
+missense,VISMODEGIB,skin basal cell carcinoma,resistant,SMO,V321M,SMO V321M
+missense,TALADEGIB,cancer,resistant,SMO,V321M,SMO V321M
+missense,VISMODEGIB,skin basal cell carcinoma,resistant,SMO,W281L,SMO W281L
+missense,SONIDEGIB,cancer,resistant,SMO,S387N,SMO S387N
+missense,VISMODEGIB,cancer,resistant,SMO,S387N,SMO S387N
+missense,VISMODEGIB,sarcoma,resistant,SMO,S387N,SMO S387N
+missense,SONIDEGIB,skin basal cell carcinoma,resistant,SMO,S533N,SMO S533N
+missense,VISMODEGIB,skin basal cell carcinoma,resistant,SMO,G497W,SMO G497W
+missense,SONIDEGIB,cancer,resistant,SMO,I408V,SMO I408V
+missense,VISMODEGIB,cancer,resistant,SMO,I408V,SMO I408V
+missense,TALADEGIB,cancer,resistant,SMO,I408V,SMO I408V
+missense,VISMODEGIB,skin basal cell carcinoma,resistant,SMO,Q477E,SMO Q477E
+missense,SONIDEGIB,cancer,resistant,SMO,D384N,SMO D384N
+missense,VISMODEGIB,sarcoma,resistant,SMO,D384N,SMO D384N
+missense,VISMODEGIB,cancer,resistant,SMO,D384N,SMO D384N
+missense,VISMODEGIB,cancer,resistant,SMO,A459V,SMO A459V
+missense,TALADEGIB,cancer,resistant,SMO,A459V,SMO A459V
+missense,SONIDEGIB,cancer,resistant,SMO,A459V,SMO A459V
+missense,VISMODEGIB,cancer,resistant,SMO,W535L,SMO W535L
+missense,VISMODEGIB,cancer,resistant,SMO,W535L,SMO W535L
+missense,SONIDEGIB,skin basal cell carcinoma,sensitive,SMO,W535L,SMO W535L
+missense,Camptothecin,glioma susceptibility 1,sensitive,STAG2,S653*,STAG2 S653*
+missense,OLAPARIB,glioma susceptibility 1,sensitive,STAG2,S653*,STAG2 S653*
+missense,TRAMETINIB,non-small cell lung carcinoma (disease),sensitive,STK11,Q37*,STK11 Q37*
+missense,EXEMESTANE,triple-negative breast carcinoma,sensitive,STK11,F354L,STK11 F354L
+missense,TRAMETINIB,non-small cell lung carcinoma (disease),sensitive,STK11,W332*,STK11 W332*
+missense,TRAMETINIB,non-small cell lung carcinoma (disease),sensitive,STK11,E199*,STK11 E199*
+missense,APR-246,peritoneum cancer,sensitive,TP53,C135Y,TP53 C135Y
+missense,APR-246,ovarian cancer,sensitive,TP53,P278R,TP53 P278R
+missense,SELICICLIB,non-small cell lung carcinoma (disease),resistant,TP53,R175H,TP53 R175H
+missense,GANETESPIB,breast cancer,sensitive,TP53,R175H,TP53 R175H
+missense,ALVESPIMYCIN,cancer,sensitive,TP53,R175H,TP53 R175H
+missense,VORINOSTAT,cancer,sensitive,TP53,R175H,TP53 R175H
+missense,SELICICLIB,non-small cell lung carcinoma (disease),resistant,TP53,S215G,TP53 S215G
+missense,APR-246,non-small cell lung carcinoma (disease),sensitive,TP53,R273H,TP53 R273H
+missense,VEMURAFENIB,melanoma (disease),sensitive,TP53,D259Y,TP53 D259Y
+missense,SELUMETINIB,melanoma (disease),sensitive,TP53,D259Y,TP53 D259Y
+missense,APR-246,ovarian cancer,sensitive,TP53,R280K,TP53 R280K
+missense,GANETESPIB,breast cancer,sensitive,TP53,R280K,TP53 R280K
+missense,APR-246,non-small cell lung carcinoma (disease),sensitive,TP53,R248W,TP53 R248W
+missense,Doxorubicin,breast cancer,sensitive,TP53,P72R,TP53 P72R
+missense,DAUNORUBICIN,breast cancer,sensitive,TP53,P72R,TP53 P72R
+missense,Epirubicin,breast cancer,sensitive,TP53,P72R,TP53 P72R
+missense,Doxorubicin,sarcoma,sensitive,TP53,P72R,TP53 P72R
+missense,IFOSFAMIDE,sarcoma,sensitive,TP53,P72R,TP53 P72R
+missense,Irinotecan,non-small cell lung carcinoma (disease),sensitive,TP53,P72R,TP53 P72R
+missense,Cyclophosphamide,estrogen-receptor negative breast cancer,sensitive,TP53,P72R,TP53 P72R
+missense,Doxorubicin,estrogen-receptor negative breast cancer,sensitive,TP53,P72R,TP53 P72R
+missense,FLUOROURACIL,estrogen-receptor negative breast cancer,sensitive,TP53,P72R,TP53 P72R
+missense,DAUNORUBICIN,breast cancer,sensitive,TP53,P72R,TP53 P72R
+missense,GEDATOLISIB,non-small cell lung carcinoma (disease),sensitive,TP53,R158G,TP53 R158G
+missense,APR-246,fallopian tube cancer,sensitive,TP53,C238F,TP53 C238F
+missense,APR-246,ovarian cancer,sensitive,TP53,L111Q,TP53 L111Q
+missense,GANETESPIB,cancer,sensitive,TP53,R248Q,TP53 R248Q
+missense,NAPABUCASIN,colorectal cancer,sensitive,TP53,R248Q,TP53 R248Q
+missense,APR-246,ovarian cancer,sensitive,TP53,R248Q,TP53 R248Q
+missense,TANESPIMYCIN,colorectal cancer,sensitive,TP53,R248Q,TP53 R248Q
+missense,SELICICLIB,non-small cell lung carcinoma (disease),resistant,TP53,P98A,TP53 P98A
+missense,APR-246,small cell lung carcinoma,sensitive,TP53,Y163C,TP53 Y163C
+missense,APR-246,small cell lung carcinoma,sensitive,TP53,R273L,TP53 R273L
+missense,SELICICLIB,non-small cell lung carcinoma (disease),resistant,TP53,Y234C,TP53 Y234C
+missense,TANESPIMYCIN,breast cancer,sensitive,TP53,L194F,TP53 L194F
+missense,GANETESPIB,breast cancer,sensitive,TP53,L194F,TP53 L194F
+missense,TANESPIMYCIN,breast cancer,sensitive,TP53,L194F,TP53 L194F
+missense,VORINOSTAT,breast cancer,sensitive,TP53,L194F,TP53 L194F
+missense,VORINOSTAT,breast cancer,sensitive,TP53,L194F,TP53 L194F
+missense,GANETESPIB,ovarian cancer,sensitive,TP53,S241F,TP53 S241F
+missense,APR-246,small cell lung carcinoma,sensitive,TP53,S241F,TP53 S241F
+missense,SELICICLIB,non-small cell lung carcinoma (disease),resistant,TP53,A159V,TP53 A159V
+missense,SELICICLIB,non-small cell lung carcinoma (disease),resistant,TP53,Y220C,TP53 Y220C
+missense,APR-246,ovarian cancer,sensitive,TP53,Y163H,TP53 Y163H
+missense,APR-246,acute myeloid leukemia,sensitive,TP53,V173M,TP53 V173M
+missense,IBRUTINIB,mantle cell lymphoma,sensitive,TP53,G244S,TP53 G244S
+missense,APR-246,ovarian cancer,sensitive,TP53,P151H,TP53 P151H
