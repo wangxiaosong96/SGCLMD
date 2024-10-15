@@ -3,6 +3,9 @@
 ![image](https://github.com/wangxiaosong96/SGCLMD/blob/main/SGCLMD-main/Images/graph.png)
 
 ## Datasets
+### Database
+We first consolidated the four datasets by removing duplicates and retaining three columns representing mutation-drug association data. The processed data was then matched with the mutant-drug name file, and the encoded data was retained. The sensitivity and resistance of the associations were encoded as 1 and -1, respectively. Finally, we split the dataset to generate the file "drug_mutation_training.txt".
+
 **We constructed a somatic mutation-drug association dataset. we randomly select 10% of the links as test set, 5% for validation set, and the remaining 85% as training set for each of our datasets. You can download it in datasets foalder.**
 
 ## Requirements
