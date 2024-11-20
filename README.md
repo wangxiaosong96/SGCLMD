@@ -27,4 +27,4 @@ python train.py --dataset=drug_mutation --epochs=300
 ```
 ## Contact
 
-Please feel free to contact us if you need any help: xiaosongwang@ahau.edu.cn
+Please feel free to contact us if you need any help: xiaosongwang@stu.ahau.edu.cn
